@@ -1,1 +1,1 @@
-# eatthinkdu.github.io
+# Eat Think Du. Blog by Erica.
