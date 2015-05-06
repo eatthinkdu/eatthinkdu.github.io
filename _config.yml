@@ -1,10 +1,10 @@
 # Site settings
 title: Eat. Think. Du.
-header-img: img/home-bg.jpg
+header-img: img/home.jpg
 email: erica.c.du@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://ericadu.com"
 twitter_username: urcadu
 github_username:  ericadu
 facebook_username:  erica.c.du
