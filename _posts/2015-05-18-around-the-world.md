@@ -17,12 +17,12 @@ tags: [think]
 
 <p>I followed the typical Asian American dream and the life path was set out. All throughout high school, I didn't take risks, I didn't go out, I brought my calculus book to homecoming. When I got to MIT, I got lucky and fell in love with computer science. I majored in the most lucrative field of this decade from possibly the best engineering school in the world, and had a job offer from one of the largest, well-known tech companies to ever exist.</p>
 
-<h3>But life is <i>short</i>.</h3>
+<h3>So I said no to the predictable path.</h3>
+
+<p>Well, it was more like "No thanks, maybe later, and definitely somewhere else." After a lot of consideration, I am beyond excited to start as a full time engineer at Codecademy in NYC. Not right away, but at the end of this year.</p>
+
+<h3>Because life is <i>short</i>.</h3>
 <p>I have always wanted to take time off and see the world. One of my favorite things to do is in one place for months and melding into a community. I got a taste of it the past 4 years through MIT, getting the opportunity to intern in Spain for 3 months and teach in Israel and Italy, both for 1 month periods. I knew that if I didn't do it now, there might not be another time in my life when I have this much freedom, independence, and time.</p>
-
-<h3>So I said no.</h3>
-
-<p>For a whole slew of reasons that could be an entirely different blog post. But to be honest, it was probably the hardest no I've ever said in my life. I do have plans to start my career though, just at a later time. I am beyond excited to start as a full time engineer at Codecademy in NYC when I get back in November, and continue pursuing my passion for edtech in the city that never sleeps.</p>
 
 <h3>There is something about travel that is so invigorating to the soul that it is hard to put into words.</h3>
 
@@ -33,8 +33,10 @@ tags: [think]
 <p>It's about a mindset that always says "Anything can happen", and moments where you take the risks you normally wouldn't. It's about finding who you are, changing who you are, and loving who you are in a completely new environment where you aren't distracted by everday stresses or held back familiarity.</p>
 
 <h3>And that's how the grand plan was hatched.</h3>
-<p>Thanks to MISTI at MIT, I was able to make this trip a reality. I'll be out of country for a total of 6 months, starting in Cape Town, South Africa for 3 months teaching at an awesome startup called <a href="http://ixperience.co.za">iXperience</a>, and ending in Asia. Plans are tentative once I leave Cape Town, and I'll probably be planning stuff on the fly when I get to China in August.</p>
+<p>Thanks to MISTI at MIT, I was able to make this trip a reality. I'll be out of country for a total of 6 months, starting in Cape Town, South Africa for 3 months teaching at an awesome startup called <a href="http://ixperience.co.za">iXperience</a>, and ending in Asia. I'll be a mentor for the Service Leadership Program with the MIT China Development Initiative in Hangzhou, China at Zhejiang University in August, and then will either be working or travelling throughout China until November.</p>
 
 <h3>So here's to adventure.</h3>
 
-<p>Here's to breaking through barriers, breaking down boundaries, and breaking out of the boxes we put ourselves in. To late nights, new soul mates, friends to call family, crazy nights we can't remember, bad decisions that turn into great stories, losing our breath, getting our breath taken away, cheesy quotes, drunken toasts, food that tastes so good we wish it never existed, chasing views, trying everything once, constantly learning, and finally, missing home but finding a new one in the process.</p>
+<p>Here's to breaking through barriers, breaking down boundaries, and breaking out of the boxes we put ourselves in. To late nights, new soul mates, friends to call family. To crazy nights we can't remember, bad decisions that turn into great stories, drunken toasts. To losing our breath, getting our breath taken away, cheesy quotes, chasing views, constantly learning. To food that tastes so good we wish it never existed, trying everything once, embracing and welcoming the unknown.</p> 
+
+<h3>Above all, here's to missing home, because there's no place like it, but finding a new, unexpected one in the process.</h3>
