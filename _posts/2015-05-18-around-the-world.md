@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Around the World in (1)80 days"
-subtitle:   "Why I Traded a 6 Figure Salary to Travel"
+subtitle:   "Why I Travel"
 date:       2015-05-18
 author:     "Erica"
 header-img: "img/travel3.jpg"
