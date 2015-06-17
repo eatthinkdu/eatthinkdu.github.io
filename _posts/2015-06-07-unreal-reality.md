@@ -29,7 +29,7 @@ Every once in a while, I need an experience that knocks me on the ground so I ca
 <center><img src="{{site.url}}/img/sand-min.jpg" height="300px" width="300px" style="padding-top:20px"/></center>
 I distinctly remember lying on the sand next to a friend, board in hand, thinking out loud, "Does it get any better than this?" Can't decide what was more fun: sandboarding, running around barefoot with new friends, sliding down sand hills, holding on for life on the back of a pick up truck driving around the dunes. Current vote is for the running.
 
-<h2 class="secion-heading">Derica</h2>
-Am not going into details, but let's just say weekends in Cape Town have been an experience, and that it turns out I have a split personality that takes some, but not too much, encouraging to emerge.
+<h2 class="secion-heading">Nightlife</h2>
+Weekends in Cape Town have been something.
 
 <h2>This is my new normal.</h2>
