@@ -34,6 +34,6 @@ tags: [think]
 
 <h3>So here's to adventure.</h3>
 
-<p>Here's to breaking through barriers, breaking down boundaries, and breaking out of the boxes we put ourselves in. To late nights, new soul mates, friends to call family. To crazy nights we can't remember, bad decisions that turn into great stories, drunken toasts. To losing our breath, getting our breath taken away, cheesy quotes, chasing views, constantly learning. To food that tastes so good we wish it never existed, trying everything once, embracing and welcoming the unknown.</p> 
+<p>Here's to breaking through barriers, breaking down boundaries, and breaking out of the boxes we put ourselves in. To late nights, new soul mates, friends to call family. To crazy nights we can't remember, bad decisions that turn into great stories, moments that turn into memories. To losing our breath, getting our breath taken away, cheesy quotes, chasing views, constantly learning. To food that tastes so good we wish it never existed, trying everything once, embracing and welcoming the unknown.</p> 
 
 <h3>Above all, here's to missing home, because there's no place like it, but finding a new, unexpected one in the process.</h3>
