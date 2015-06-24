@@ -93,4 +93,4 @@ This Saturday, I went to <b>Old Biscuit Mill</b> in Woodstock, an artsy neighbor
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/GtjP1eWgTlE" frameborder="0" allowfullscreen></iframe>
 
-<h3>So even though I <i>still</i> suck at deciding, at Old Biscuit Mill, indecision isn't always so bad.</h3>
+<h3>So yes, I <i>still</i> suck at deciding. Which at Old Biscuit Mill, turned out to be both a blessing and a curse.</h3>
