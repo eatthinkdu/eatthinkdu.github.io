@@ -15,7 +15,7 @@ Is it dying? Is death the worst thing that can happen to you?
 
 To be completely honest, I can think of a few things that scare me _more_ than death. Losing all your memories and your personality. Losing your mind. Being in a coma and not being able to wake up.
 
-I'm not saying I don't fear death because I do. And heights. Rejection. Lonliness. Failure. I would be lying if I said these things don't scare me because they <i>absolutely</i> do.
+I'm not saying I don't fear death because I do. And heights. Rejection. Loneliness. Failure. I would be lying if I said these things don't scare me because they <i>absolutely</i> do.
 
 <h3>Maybe they even scare you too.</h3>
 
