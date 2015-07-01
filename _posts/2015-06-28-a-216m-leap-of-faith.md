@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "A 216m Leap of Faith"
-subtitle:   "Bungee Jumping: Fear, Faith, and Flying."
+subtitle:   "Bungee Jumping: Fear, Faith, Falling, Flying."
 date:       2015-06-28
 author:     "Erica"
 header-img: "img/bungee.jpg"
