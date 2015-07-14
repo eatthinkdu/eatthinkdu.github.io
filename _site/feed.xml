@@ -3,11 +3,88 @@
   <channel>
     <title>Eat. Think. Du.</title>
     <description>Write your site description here. It will be used as your sites meta description as well!</description>
-    <link>http://eatthinkdu.com/</link>
-    <atom:link href="http://eatthinkdu.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Jul 2015 01:02:52 +0200</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2015 01:02:52 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 14 Jul 2015 14:12:12 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2015 14:12:12 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>The Garden Route</title>
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;I just had the most incredible weekend.&lt;/h3&gt;
+
+&lt;p&gt;Of friends, of fun, of adventure, memories for a lifetime, being young and being reckless. Feeling close without actually being close, but just enjoying each other’s company and travelling together.&lt;/p&gt;
+
+&lt;p&gt;Just a month ago we were just a collection of strangers, but we had stumbled into maybe, probably, definitely too much bonding, and whether we wanted to or not, had become an iX family.&lt;/p&gt;
+
+&lt;p&gt;The weekend was packed with scheduled activities, from visiting caves to riding ostriches, but my favorite moments were the times when we were driving, just staring out the window looking out across the changing landscape the sunset with the mountains and the colors the clouds the trees. Those were the times when the thought crossed my mind that things could not possibly get better than this, that this was perfection and just the act of &lt;b&gt;being&lt;/b&gt; was enough.&lt;/p&gt;
+
+&lt;p&gt;For those who don’t like to read, I made a video of all the pictures I took. For everyone else, read on for the sparknotes version of the weekend. &lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OnX0J9it8Uc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Ostrich Riding&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;http://localhost:4000/img/du/gardenroute/ostrich.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;First off, it might be safe to say that ostriches are probably the dumbest animals known to man. Look at their heads, there is actually physically no room for a brain. Second, ostriches are definitely not meant to be ridden, and it was one of the funniest things to witness.&lt;/p&gt;
+
+&lt;h3&gt;Animal Sanctuary&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;http://localhost:4000/img/du/gardenroute/cheetah.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Even though the animal sanctuary was a bit like a glorified zoo, I’m not gonna lie, getting to pet a cheetah was simultaneously so against nature, and also the coolest thing ever. These animals are running, hunting machines. Now domesticated in your nearest South African resrve so that hoards of Americans can snuggle it and snap selfies. Tourism at its finest or most ridiculous?&lt;/p&gt;
+
+&lt;h3&gt;Backpackers Hostel&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;http://localhost:4000/img/du/gardenroute/hostel.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Our drive up to our hostel by the beach was idealistic like no other, with the sun setting, ocean to our right, and the mist and clouds just hitting the mountains. A bunch of us decided to head to the beach for a night swim, and it really did feel like we were just a bunch of little kids and the beach was our giant sandbox and the ocean was our kiddie pool. The next day we found out a surfer lost his leg to a shark in the &lt;i&gt;next bay over&lt;/i&gt;. Go figure.&lt;/p&gt;
+
+&lt;h3&gt;Rastafarian Community Tour&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;http://localhost:4000/img/du/gardenroute/rasta.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Epic trip with an even more epic tour guide (shoutout to brother Zeb). Totally vibing with the culture and the music. Peace, love, and fun grass.&lt;/p&gt;
+
+&lt;h3&gt;Elephant Riding&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;http://localhost:4000/img/du/gardenroute/elephant.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Elephants are just incredibly adorable creatures, and riding off into the sunset with elephants in South Africa held twangs of surrealism, nostalgia, and cheesy tourist vibes. They always look like they’re smiling. Not sure if other animals really compete there. The count of number of animals we rode that weren’t meant to be ridden goes up by 1.&lt;/p&gt;
+
+&lt;h3&gt;Bungee Jumping&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;http://localhost:4000/img/du/gardenroute/bungee.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;So cool I had to write a separate post about it &lt;a href=&quot;/du/2015/06/28/a-216m-leap-of-faith/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Game Drive&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;http://localhost:4000/img/du/gardenroute/game.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;THE&lt;/strong&gt; safari experience, mini edition. We took a open top 4x4 and saw a whole lot of animals. Highlights include perhaps the best tour guide in the world, Leroy, getting close to the lions without dying, and witnessing a carcass recently torn up by a cheetah.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jun 2015 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/du/2015/06/28/garden-route/</link>
+        <guid isPermaLink="true">http://localhost:4000/du/2015/06/28/garden-route/</guid>
+        
+        <category>du</category>
+        
+        
+        <category>du</category>
+        
+      </item>
     
       <item>
         <title>A 216m Leap of Faith</title>
@@ -17,7 +94,7 @@
 
 &lt;p&gt;To be completely honest, I can think of a few things that scare me &lt;em&gt;more&lt;/em&gt; than death. Losing all your memories and your personality. Losing your mind. Being in a coma and not being able to wake up.&lt;/p&gt;
 
-&lt;p&gt;I’m not saying I don’t fear death because I do. And heights. Rejection. Lonliness. Failure. I would be lying if I said these things don’t scare me because they &lt;i&gt;absolutely&lt;/i&gt; do.&lt;/p&gt;
+&lt;p&gt;I’m not saying I don’t fear death because I do. And heights. Rejection. Loneliness. Failure. I would be lying if I said these things don’t scare me because they &lt;i&gt;absolutely&lt;/i&gt; do.&lt;/p&gt;
 
 &lt;h3&gt;Maybe they even scare you too.&lt;/h3&gt;
 
@@ -67,8 +144,8 @@
 &lt;p&gt;Not the absence of fear, but the complete presence of fear, and having the complete faith to confront it.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/du/2015/06/28/a-216m-leap-of-faith/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/du/2015/06/28/a-216m-leap-of-faith/</guid>
+        <link>http://localhost:4000/du/2015/06/28/a-216m-leap-of-faith/</link>
+        <guid isPermaLink="true">http://localhost:4000/du/2015/06/28/a-216m-leap-of-faith/</guid>
         
         <category>du</category>
         
@@ -104,56 +181,56 @@
 &lt;h3&gt;Old Biscuit Mill had some serious eats -- everything from potato latkes to dim sum to ginger shots...&lt;/h3&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/market.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/market.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Walking through the market
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/benedict.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/benedict.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     THE BEST
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/mushrooms.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/mushrooms.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Delicious mushroom kebabs
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/paella.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/paella.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Smells like Spain
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/sangria.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/sangria.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Drinks like Spain too
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/dimsum.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/dimsum.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Taste of Asia?
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/bakery.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/bakery.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Artisan bakers
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/biscuit/kosher.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/biscuit/kosher.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Healthy yums
   &lt;/p&gt;
@@ -166,8 +243,8 @@
 &lt;h3&gt;So yes, I &lt;i&gt;still&lt;/i&gt; suck at deciding. Which at Old Biscuit Mill, turned out to be both a blessing and a curse.&lt;/h3&gt;
 </description>
         <pubDate>Sat, 20 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/eat/2015/06/20/old-biscuit-mill/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/eat/2015/06/20/old-biscuit-mill/</guid>
+        <link>http://localhost:4000/eat/2015/06/20/old-biscuit-mill/</link>
+        <guid isPermaLink="true">http://localhost:4000/eat/2015/06/20/old-biscuit-mill/</guid>
         
         <category>eat</category>
         
@@ -196,29 +273,29 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/stellenbosch/emily.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/stellenbosch/emily.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Visiting my beautiful little little little twin star Emily!
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/stellenbosch/scenery.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/stellenbosch/scenery.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     During our hike.
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/stellenbosch/erica.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/stellenbosch/erica.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Happy and grateful for that change in pace.
   &lt;/p&gt;
 &lt;/center&gt;
 </description>
         <pubDate>Mon, 15 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/du/2015/06/15/change-of-pace/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/du/2015/06/15/change-of-pace/</guid>
+        <link>http://localhost:4000/du/2015/06/15/change-of-pace/</link>
+        <guid isPermaLink="true">http://localhost:4000/du/2015/06/15/change-of-pace/</guid>
         
         <category>du</category>
         
@@ -238,57 +315,57 @@
 &lt;h3&gt;Here&#39;s a peak into my heaven on earth.&lt;/h3&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/spice/scenery.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/spice/scenery.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     That background scenery doe, in the midst of beautiful wine country.
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/spice/signs.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/spice/signs.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     All of these things are my favorites.
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/spice/path.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/spice/path.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Walking through on a beautiful fall day.
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/spice/wine.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/spice/wine.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Wine AND chocolate!
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/spice/chocolate.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/spice/chocolate.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Just straight up chocolate.
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/spice/biltong_cheese.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/spice/biltong_cheese.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Biltong AND cheese!
   &lt;/p&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-  &lt;img src=&quot;http://eatthinkdu.com/img/eat/spice/art_barn.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/img/eat/spice/art_barn.jpg&quot; height=&quot;400px&quot; width=&quot;400px&quot; style=&quot;padding-top:20px&quot; /&gt;
   &lt;p&gt;
     Art barn at the end of the route.
   &lt;/p&gt;
 &lt;/center&gt;
 </description>
         <pubDate>Sun, 14 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/eat/2015/06/14/ihtfp/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/eat/2015/06/14/ihtfp/</guid>
+        <link>http://localhost:4000/eat/2015/06/14/ihtfp/</link>
+        <guid isPermaLink="true">http://localhost:4000/eat/2015/06/14/ihtfp/</guid>
         
         <category>eat</category>
         
@@ -338,8 +415,8 @@
 &lt;h3&gt;I really do still miss you guys. Is that too much?&lt;/h3&gt;
 </description>
         <pubDate>Thu, 11 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/think/2015/06/11/the-hard-stuff/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/think/2015/06/11/the-hard-stuff/</guid>
+        <link>http://localhost:4000/think/2015/06/11/the-hard-stuff/</link>
+        <guid isPermaLink="true">http://localhost:4000/think/2015/06/11/the-hard-stuff/</guid>
         
         <category>think</category>
         
@@ -359,15 +436,15 @@
 &lt;p&gt;Things are coming at me a million miles a minute, a different sort of firehose, and I am saying yes to everything. I have no idea who this version of myself is, but she is way crazier than the actual Erica. She is also pretty awesome. Maybe I like it. I can’t tell yet. You be the judge – here’s a handful of things I’ve been able to do while in Cape Town.&lt;/p&gt;
 
 &lt;h2 class=&quot;secion-heading&quot;&gt;Shark Cage Diving&lt;/h2&gt;
-&lt;center&gt;&lt;img src=&quot;http://eatthinkdu.com/img/shark.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/shark.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;It’s exactly what it sounds like, I got to go diving with Great Whites my first weekend in Cape Town. What no one tells you: you wake up at 4 am in the morning, and then board a boat where 25% of the people will barf multiple times. Another 25% will feel like they could chunder at any given moment but hold back by staring at land or sucking on a lollipop. Go figure. What you probably guessed: it was a f***ing awesome experience. Sharks are beautiful. Not to mention massive. You need to do it. Would not recommend drinking the night before.&lt;/p&gt;
 
 &lt;h2 class=&quot;secion-heading&quot;&gt;Surfing&lt;/h2&gt;
-&lt;center&gt;&lt;img src=&quot;http://eatthinkdu.com/img/surfing.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/surfing.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;Every once in a while, I need an experience that knocks me on the ground so I can get back up again (am I masochistic?). Surfing is exactly that. Literally, exactly that. Even though I’ve wakeboarded and snow boarded before, surfing kicked my ass, and I loved it. There is nothing cooler than standing up on top of a wave, and then getting sucked back into ocean.&lt;/p&gt;
 
 &lt;h2 class=&quot;secion-heading&quot;&gt;Sandboarding&lt;/h2&gt;
-&lt;center&gt;&lt;img src=&quot;http://eatthinkdu.com/img/sand-min.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/sand-min.jpg&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding-top:20px&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;I distinctly remember lying on the sand next to a friend, board in hand, thinking out loud, “Does it get any better than this?” Can’t decide what was more fun: sandboarding, running around barefoot with new friends, sliding down sand hills, holding on for life on the back of a pick up truck driving around the dunes. Current vote is for the running.&lt;/p&gt;
 
 &lt;h2 class=&quot;secion-heading&quot;&gt;Nightlife&lt;/h2&gt;
@@ -376,8 +453,8 @@
 &lt;h2&gt;This is my new normal.&lt;/h2&gt;
 </description>
         <pubDate>Sun, 07 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/du/2015/06/07/unreal-reality/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/du/2015/06/07/unreal-reality/</guid>
+        <link>http://localhost:4000/du/2015/06/07/unreal-reality/</link>
+        <guid isPermaLink="true">http://localhost:4000/du/2015/06/07/unreal-reality/</guid>
         
         <category>du</category>
         
@@ -399,8 +476,8 @@
 &lt;iframe width=&quot;500&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/6Gn0ryGjzPU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Wed, 27 May 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/du/2015/05/27/i-landed-in-cape-town/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/du/2015/05/27/i-landed-in-cape-town/</guid>
+        <link>http://localhost:4000/du/2015/05/27/i-landed-in-cape-town/</link>
+        <guid isPermaLink="true">http://localhost:4000/du/2015/05/27/i-landed-in-cape-town/</guid>
         
         <category>du</category>
         
@@ -441,8 +518,8 @@
 &lt;h3&gt;Above all, here&#39;s to missing home, because there&#39;s no place like it, but finding a new, unexpected one in the process.&lt;/h3&gt;
 </description>
         <pubDate>Mon, 18 May 2015 00:00:00 +0200</pubDate>
-        <link>http://eatthinkdu.com/think/2015/05/18/around-the-world/</link>
-        <guid isPermaLink="true">http://eatthinkdu.com/think/2015/05/18/around-the-world/</guid>
+        <link>http://localhost:4000/think/2015/05/18/around-the-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/think/2015/05/18/around-the-world/</guid>
         
         <category>think</category>
         
