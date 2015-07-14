@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Garden Route"
 subtitle:   "A Road Trip to the Eastern Cape"
-date:       2015-06-28
+date:       2015-06-29
 author:     "Erica"
 header-img: "img/elephant.jpg"
 category: du
