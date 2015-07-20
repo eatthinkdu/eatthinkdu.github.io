@@ -4,7 +4,7 @@ title:      "At the Edge of the World"
 subtitle:   "Cape Point and the Cape of Good Hope"
 date:       2015-07-19
 author:     "Erica"
-header-img: "img/du/cape.jpg"
+header-img: "img/du/cape.JPG"
 category: du
 tags: [du]
 ---
@@ -17,16 +17,16 @@ We were overlooking the water at the southwestern most tip of Africa after havin
 
 Our crew headed out early to drive south along a scenic coastline to Cape Point, and lastly, Cape of Good Hope, stopping along some view points along the way. It still surprises me how the mountains never fail to impress me, and that a beautiful sunset or a massive cliff of rocks next to water never gets old. Besides being blessed with incredible T-shirt weather, it was a fun day of exploring, exotic animals, and being impressed by nature.
 
-<center><img src="{{site.url}}/img/du/cape/cape1.jpg" height="400px" width="400px" style="padding-top:20px"/></center>
+<center><img src="{{site.url}}/img/du/cape/cape1.JPG" height="400px" width="400px" style="padding-top:20px"/></center>
 
-<center><img src="{{site.url}}/img/du/cape/cape2.jpg" height="400px" width="400px" style="padding-top:20px"/></center>
+<center><img src="{{site.url}}/img/du/cape/cape2.JPG" height="400px" width="400px" style="padding-top:20px"/></center>
 
-<center><img src="{{site.url}}/img/du/cape/cape3.jpg" height="400px" width="400px" style="padding-top:20px"/></center>
+<center><img src="{{site.url}}/img/du/cape/cape3.JPG" height="400px" width="400px" style="padding-top:20px"/></center>
 
-<center><img src="{{site.url}}/img/du/cape/cape4.jpg" height="400px" width="400px" style="padding-top:20px"/></center>
+<center><img src="{{site.url}}/img/du/cape/cape4.JPG" height="400px" width="400px" style="padding-top:20px"/></center>
 
-<center><img src="{{site.url}}/img/du/cape/cape5.jpg" height="400px" width="400px" style="padding-top:20px"/></center>
+<center><img src="{{site.url}}/img/du/cape/cape5.JPG" height="400px" width="400px" style="padding-top:20px"/></center>
 
-<center><img src="{{site.url}}/img/du/cape/cape6.jpg" height="400px" width="400px" style="padding-top:20px"/></center>
+<center><img src="{{site.url}}/img/du/cape/cape6.JPG" height="400px" width="400px" style="padding-top:20px"/></center>
 
-<center><img src="{{site.url}}/img/du/cape/cape7.jpg" height="400px" width="400px" style="padding-top:20px"/></center>
+<center><img src="{{site.url}}/img/du/cape/cape7.JPG" height="400px" width="400px" style="padding-top:20px"/></center>
