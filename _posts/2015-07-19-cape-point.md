@@ -4,7 +4,7 @@ title:      "At the Edge of the World"
 subtitle:   "Cape Point and the Cape of Good Hope"
 date:       2015-07-19
 author:     "Erica"
-header-img: "img/du/cape.JPG"
+header-img: "img/du/cape.jpg"
 category: du
 tags: [du]
 ---
