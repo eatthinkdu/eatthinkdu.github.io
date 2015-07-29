@@ -16,3 +16,7 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+analytics:
+  provider: google
+  google:
+    tracking_id: 'UA-62872110-2'
