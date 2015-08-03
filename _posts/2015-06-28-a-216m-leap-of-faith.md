@@ -29,7 +29,7 @@ Fear is 100% about admitting that you are 100% not ok, so that courage can be th
 
 A 216m leap to be exact. 
 
-Our group woke up at 7 am to make our 9 am bungee reseravation, and the minute I got of the bus, a hoard of conflicting thoughts were already racing through my brain.
+Our group woke up at 7 am to make our 9 am bungee reseravation, and the minute I got off the bus, a hoard of conflicting thoughts were already racing through my brain.
 
 "I don't want to die." 
 "But I won't."
