@@ -4,13 +4,18 @@ title:      "The Elephant in the Room"
 subtitle:   "So Let's Talk About It"
 date:       2015-07-29
 author:     "Erica"
-header-img: "img/spiceroute.jpg"
+header-img: "img/think/elephant/elephant.JPG"
 category: think
 tags: [think]
 ---
 
-<h3 class="section-heading">I've been struggling to find the right words.</h3>
+<h3 class="section-heading">As people, we are the sum of our memories and experiences.</h3>
 
-I'm scared to say something offensive, or straight up wrong. Of maybe saying something that's too real or too soon. I don't want to seem ignorant or arrogant, coming from a country that is known to be both. Because at the end of the day, I can only comment on what I have seen and what I have been told, and both of thosebanks are extremely limited.
+I believe that nations, too, are the sum of memories and experiences, that there is a cycle consisted of history shaping culture, customs, people, and vice versa.
 
-A lot of my posts have been light hearted topics -- bungee jumping, wine tours, feel-good adventures as demonstrated through filtered photos.  
+Because apartheid was a mere 20 years ago in South Africa, seeing racial relations at play here has been really hard to take in.
+
+<h3>I've been struggling a lot to put how I feel into words.</h3>
+
+Almost scared. Scared to say something offensive, or straight up wrong. I don't want to seem ignorant or arrogant, coming from a country that is known to be both. Because at the end of the day, I can only comment on what I have seen and what I have been told, and both of those knowledge banks are extremely limited.
+  
