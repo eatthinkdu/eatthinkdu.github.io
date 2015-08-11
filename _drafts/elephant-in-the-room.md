@@ -13,7 +13,7 @@ tags: [think]
 
 I believe that nations, too, are the sum of memories and experiences, that there is a cycle consisted of history shaping culture, customs, people, and vice versa.
 
-Because apartheid was a mere 20 years ago in South Africa, seeing racial relations at play here has been really hard to take in.
+Seeing racial relations at play here has been really hard to take in.
 
 <h3>I've been struggling a lot to put how I feel into words.</h3>
 
