@@ -17,7 +17,7 @@ Traditionally we measure life in time -- in days, in months, in years. Sometimes
 
 Even if you cut out the first 10 years, in which I was essentially an overgrown baby with an underdeveloped personality, 3 months is barely breaking 2%. That's a penny compared to a dollar, 1 single second compared to nearly 2 minutes, really just a tiny speck in a <a href="http://waitbutwhy.com/2014/05/life-weeks.html" target="_blank">spoonful of diamonds</a>.
 
-<h3>How do you measure a life?</h3>
+<h3>How do you measure life?</h3>
 
-Even though time seems to be universally acknowledged as a measurement for life progress, I've found that everyone has their own metrics as well, whether they are aware of them or not. Love? (cue song from <a href="https://www.youtube.com/watch?v=wsj15wPpjLY" target="_blank">Rent</a>). Salary? Prestige?
+Do measure if the time you've spent is worthwhile? A big lesson I've learned in Cape Town is the power of second chances. 
 
