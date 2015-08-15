@@ -28,7 +28,7 @@ While blatantly labelling or grouping people by race is a touchy issue in Americ
 
 <h3>I've felt my own quality of life in Cape Town affected by my race.</h3>
 
-Basic privileges, like being called out on the street or a restaurant, become recognized as just that: privileges.
+Basic privileges, like walking on the street or sitting at a restaurant without being called out for being Chinese, become recognized as just that: privileges.
 
 I've been told "Well, you just don't understand..." and "You see, it's not like that here..." and "That's just the way things are right now..." and "That's not considered racist here..." as explanations.
 
@@ -36,6 +36,6 @@ I've been told "Well, you just don't understand..." and "You see, it's not like 
 
 Cape Town is an incredible place to visit, with a billion of amazing things to offer -- beautiful views, beautiful people, a wealth of opportunity, a diverse and fun nightlife, a wealth of mountains and trails perfect for hiking and running. 
 
-But, in terms of longer term living, there is no denying that there is still a good degree of racism that exists in Cape Town -- perhaps mostly because of where we are in its history. 
+But there is no denying that there is still a good degree of racism that exists in Cape Town -- perhaps mostly because of where we are in its history.
 
 <h3>With that being said, it is the mindset of the people that will shape the future of a nation, and only time will tell the social progress that Cape Town, along with the rest of South Africa, can achieve in the coming decades.</h3>
