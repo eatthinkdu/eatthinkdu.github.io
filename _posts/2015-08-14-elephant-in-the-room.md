@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "The Elephant in the Room"
-subtitle:   "So Let's Talk About It"
+title:      "Thoughts on Race"
+subtitle:   "The Elephant in the Room"
 date:       2015-08-14
 author:     "Erica"
 header-img: "img/think/elephant/elephant.JPG"
@@ -14,11 +14,11 @@ Taken back to a social transition period when women and black people were still 
 
 Which, you know, makes sense, since apartheid ended a mere 20 years ago.
 
-I am hyper-aware of my biases from previous experiences, my political correctness and sensitivities, but simultaneously acknowledge my lack of knowledge. I am conflicted between being upset about what I'm seeing in Cape Town, yet realizing these problems are not isolated to just this part of the world. These problems also existed and still exist in America.
+I am hyper-aware of my biases, my political correctness and sensitivities, but simultaneously acknowledge my lack of knowledge. I am conflicted between being upset about what I'm seeing in Cape Town, yet realizing these problems are not isolated to just this part of the world.
 
-<h3>It's the elephant in the room. So let's talk.</h3>
+<h3>Race is not something I've mentioned at all so far in my posts.</h3>
 
-There's a lot of racial separation in Cape Town.
+But I wanted to take the time to share my thoughts on how race has impacted my experience, since it <i>has</i> been a part of my time here in Cape Town.
 
 From personal experiences, bars and clubs will often either be all white or all black, and social scenes with races intermingling are few and far between. The wait staff at almost every restaurant will be all black, yet the manager will almost always be white. Same goes for a lot of the other jobs in the service industry -- construction, housework. Poverty, homelessness, and race seem to be so strongly correlated.
 
@@ -32,10 +32,8 @@ Basic privileges, like walking on the street or sitting at a restaurant without 
 
 I've been told "Well, you just don't understand..." and "You see, it's not like that here..." and "That's just the way things are right now..." and "That's not considered racist here..." as explanations.
 
-<h3>And I get that. But does that make my thoughts less valid?</h3>
+<h3>And I get that.</h3>
 
-Cape Town is an incredible place to visit, with a billion of amazing things to offer -- beautiful views, beautiful people, a wealth of opportunity, a diverse and fun nightlife, a wealth of mountains and trails perfect for hiking and running. 
+Cape Town is an incredible place to visit, with a billion of amazing things to offer, but there is no denying that there is still a good degree of racism that exists -- perhaps mostly because of where we are in its history.
 
-But there is no denying that there is still a good degree of racism that exists in Cape Town -- perhaps mostly because of where we are in its history.
-
-<h3>With that being said, it is the mindset of the people that will shape the future of a nation, and only time will tell the social progress that Cape Town, along with the rest of South Africa, can achieve in the coming decades.</h3>
+<h3>With that being said, I do think it is the mindset of the people that will shape the future of a nation, and only time will tell the social progress that Cape Town, along with the rest of South Africa, can achieve in the coming decades.</h3>
