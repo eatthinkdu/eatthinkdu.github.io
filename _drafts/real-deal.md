@@ -1,40 +1,39 @@
 ---
 layout:     post
-title:      "Part I: The Real Deal"
+title:      "Final Words"
 subtitle:   "Reflections from Cape Town"
-date:       2015-08-14
+date:       2015-08-16
 author:     "Erica"
 header-img: "img/think/reflection/rainbow.JPG"
 category: think
 tags: [think]
 ---
 
-<h3 class="section-heading">Don't get me wrong.</h3>
+<h3>Bru, did I have the adventure of a lifetime.</h3>
 
-I am so grateful and happy to have had the opportunity to live in Cape Town at Once for 3 months, and to work at iXperience.
+I <a href="{% post_url 2015-06-28-a-216m-leap-of-faith %}" target="_blank">bungee jumped</a> off a 216 m bridge, and dove in a cage with <a href="{% post_url 2015-06-07-unreal-reality %}" target="_blank">great whites</a>. I pet not one, but two <a href="{% post_url 2015-06-29-garden-route %}" target="_blank">cheetahs</a> simultaneously. I rode an ostrich until I fell off, and an elephant until the sun set. I took selfies with penguins at the end of the world, and got photos taken of me on a sandboard against crystal blue skies and perfect white sand dunes. I was beaten down by countless waves until I stood up on a surfboard, and beat down countless drinks until I couldn't stand. I <a href="{% post_url 2015-08-01-hikes %}" target="_blank">hiked</a> mountains to happen upon lakes, and ran alongside the ocean to get a glimpse of the mountains.
 
-<h3>Because bru, did I have the <i>adventure</i> of a lifetime.</h3>
-
-I <a href="{% post_url 2015-06-28-a-216m-leap-of-faith %}" target="_blank">bungee jumped</a> off a 216 m bridge, and dove in a cage with <a href="{% post_url 2015-06-07-unreal-reality %}" target="_blank">great white sharks</a>. I pet not one, but two <a href="{% post_url 2015-06-29-garden-route %}" target="_blank">cheetahs</a> simultaneously. I rode an ostrich until I fell off, and an elephant until the sun set. I took selfies with penguins at the end of the world, and got amazing photos taken of me hanging on a sandboard against blue skies and white sand dunes. I was beaten down by waves again and again, until I stood up on a surfboard, and beat down drinks again and again until I couldn't stand. I <a href="{% post_url 2015-08-01-hikes %}" target="_blank">hiked</a> mountains to happen upon lakes, and ran alongside the ocean to get a glimpse of the mountains. We chased every sunset we could, in as many different viewpoints as we could, because we knew it wouldn't disappoint. I lived everyday like it was my birthday, and treated everyday like it would soon be a memory anyway.
-
-Along with an awesome teaching staff, I helped 73 students learn how to code in a matter of months, and helped them build beautiful, functional web apps that tackled problems from food waste all the way to education. 
+Alongside an awesome teaching staff, I helped 73 students learn how to code in a matter of months, and helped them build beautiful, functional web apps that tackled problems from food waste all the way to education. 
 
 <h3>But Jesus, did I <i>struggle</i> like I have never before.</h3>
-I had trouble dealing with work, not the work itself, but the conditions. Early on, I thought about quitting. At times I felt taken advantage of, almost dumb for even deciding to come work for iX, like they had found the wrong person to TA. It was really hard for me to stay professional, it was even harder for me to communicate how I felt. 
+There was plenty of social drama the first couple of months, which felt like I was living in a reality TV show, complete with my own plot line.
 
-My professional life and personal life melded together into this goopy mess, as I lived with, worked with, and partied with the same group of people. 
+I had trouble with work, not the work itself, but the conditions I agreed to. I thought about quitting. At times I felt I made the wrong choice deciding to come work for iX, like they had found the wrong person to TA. It was really hard for me to stay professional, it was even harder for me to communicate how I felt. 
+
+My professional life and personal life melded together into this goopy mess, as I lived with, worked with, and partied with the same group of people.
 
 I sometimes felt stuck.
 
-There was plenty of social drama the first couple of months, which felt like I was living in a reality TV show, complete with my own plot line.
+<h3>And that's the thing about growth. I guess it always comes with some growing pains.</h3>
 
-<h3>Growth and growing pains go hand in hand.</h3>
-And through it, I learned an incredible amount about completely unexpected things.
+Most importantly, through it all, I learned about the power of <b>surrounding myself with people who saw me for who I could be, and not for who I necessarily was in the moment</b>. Especially a Zulu Queen, a programmer turned technology educator, and a new coder with a thousand lives. Nothing was more motivating than people by my side genuinely advocating for my success, and weren't afraid to tell me straight when I could do better. 
 
-About recognizing my own value and not shying away from it, about standing up for myself, about letting things go.
+When I could <i>be</i> better.
 
-About how to admit when you're wrong, forgiving other people, and most difficult of all, how to forgive myself.
+<h3>What really made my experience, though, were my students.</h3>
 
-About the importance of giving and receiving second chances, about taking chances on people, and most importantly, about the incredible power of having someone see you for <b>who you could be</b>, and not for who you currently are.
+A bunch of <b>strangers</b>, who came from all over the world to be <b>students</b>, who I soon called my <b>friends</b>, who slowly became my <b>family</b>. 
 
-Continue to part II...
+They were the ones who threw me the most badass birthday parties I've ever had, and forced me to live in the moment, if only for a moment. They were the ones who shared their life stories with me, and saw <i>me</i> at my realest, the ones who saw through all sorts of bullshit, and called me out on mine. They were the ones who's passion for what they were doing renewed my passion for what I was doing.
+
+<h3>At the end of the day, it's not the place I loved and it's not the place I'll miss. It's the people, <i>these people</i>, I had the opportunity to meet along the way, the ones I came to teach, but who also became the ones I learned the most from.</h3>

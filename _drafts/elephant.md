@@ -37,3 +37,7 @@ I've been told "Well, you just don't understand..." and "You see, it's not like 
 Cape Town is an incredible place to visit, with a billion of amazing things to offer, but there is no denying that there is still a good degree of racism that exists -- perhaps mostly because of where we are in its history.
 
 <h3>With that being said, I do think it is the mindset of the people that will shape the future of a nation, and only time will tell the social progress that Cape Town, along with the rest of South Africa, can achieve in the coming decades.</h3>
+
+10 Things That May Or May Not Be Considered Racist
+
+1. 
