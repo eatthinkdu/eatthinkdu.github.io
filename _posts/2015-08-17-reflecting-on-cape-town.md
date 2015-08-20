@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Final Words"
-subtitle:   "Reflections from Cape Town"
+subtitle:   "Reflecting on Cape Town"
 date:       2015-08-16
 author:     "Erica"
 header-img: "img/think/reflection/rainbow.JPG"
@@ -24,11 +24,13 @@ My professional life and personal life melded together into this goopy mess, as 
 
 I sometimes felt stuck.
 
-<h3>And that's the thing about growth. I guess it always comes with some growing pains.</h3>
+<h3>Some people call struggle by another name. I personally quite like "growth."</h3>
 
-Most importantly, through it all, I learned about the power of <b>surrounding myself with people who saw me for who I could be, and not for who I necessarily was in the moment</b>. Especially a Zulu Queen, a programmer turned technology educator, and a new coder with a thousand lives. Nothing was more motivating than people by my side genuinely advocating for my success, and weren't afraid to tell me straight when I could do better. 
+Through it all, I learned about the power of <b>surrounding myself with people who saw me for who I could be, and not for who I necessarily was in the moment</b>. Especially a Zulu Queen, a programmer turned technology educator, and a new coder with a thousand lives. Nothing was more motivating than people by my side genuinely advocating for my success, and weren't afraid to tell me straight when I could do better. 
 
 When I could <i>be</i> better.
+
+Thanks to some advice from my CEO, I began to think hard about living life the way you <b>choose</b> to live it, and what it means to design your lifestyle. I learned that it starts with just that -- a conscious choice.
 
 <h3>What really made my experience, though, were my students.</h3>
 
@@ -36,4 +38,6 @@ A bunch of <b>strangers</b>, who came from all over the world to be <b>students<
 
 They were the ones who threw me the most badass birthday parties I've ever had, and forced me to live in the moment, if only for a moment. They were the ones who shared their life stories with me, and saw <i>me</i> at my realest, the ones who saw through all sorts of bullshit, and called me out on mine. They were the ones who's passion for what they were doing renewed my passion for what I was doing.
 
-<h3>At the end of the day, it's not the place I loved and it's not the place I'll miss. It's the people, <i>these people</i>, I had the opportunity to meet along the way, the ones I came to teach, but who also became the ones I learned the most from.</h3>
+It's not the place I loved and it's not the place I'll miss.
+
+<h3>It's the people I had the opportunity to meet along the way, <i>these people</i>. The ones I came to teach, but who became the ones who taught me the most about myself.</h3>
