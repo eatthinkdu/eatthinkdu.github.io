@@ -18,7 +18,7 @@ Alongside an awesome teaching staff, I helped 73 students learn how to code in a
 <h3>But Jesus, did I <i>struggle</i> like I have never before.</h3>
 There was plenty of social drama the first couple of months, which felt like I was living in a reality TV show, complete with my own plot line.
 
-I had trouble with work, not the work itself, but the conditions I agreed to. I thought about quitting. At times I felt I made the wrong choice deciding to come work for iX, like they had found the wrong person to TA. It was really hard for me to stay professional, it was even harder for me to communicate how I felt. 
+I had trouble with work, not the work itself, but the conditions I agreed to. I thought about quitting. At times I felt I made the wrong choice deciding to come work for iX, like they had found the wrong person to TA.
 
 My professional life and personal life melded together into this goopy mess, as I lived with, worked with, and partied with the same group of people.
 
