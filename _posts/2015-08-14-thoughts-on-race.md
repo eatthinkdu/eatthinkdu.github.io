@@ -12,11 +12,7 @@ tags: [think]
 
 Taken back to a social transition period when women and black people were still in the midst of that transition. Which, you know, makes sense, since apartheid ended a mere 20 years ago.
 
-<h3>Race is not something I've mentioned at all so far in my blog.</h3>
-
-Yet it is something I think about here a lot, and something I think is important to share. I am conflicted between being upset about what I'm seeing in Cape Town, yet realizing these problems are not isolated to just this part of the world.
-
-Most of the stuff I've noticed is pretty innocent, others confusing, some questionable, a few straight up disappointing. 
+Most of the stuff I've noticed is pretty innocent, some confusing, a few questionable.
 
 The truth is that 20 years is a blink of an eye in the span of history, and only time will tell the social progress that Cape Town, along with the rest of South Africa, can achieve in the coming decades.
 
