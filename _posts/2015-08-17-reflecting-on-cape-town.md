@@ -30,7 +30,7 @@ Through it all, I learned about the power of <b>surrounding myself with people w
 
 When I could <i>be</i> better.
 
-Thanks to some advice from my CEO, I began to think hard about living life the way you <b>choose</b> to live it, and what it means to design your lifestyle. I learned that it starts with just that -- a conscious choice.
+I began to think hard about living life the way you <b>choose</b> to live it, and what it means to design your lifestyle. I learned that it starts with just that -- a conscious choice.
 
 <h3>What really made my experience, though, were my students.</h3>
 
