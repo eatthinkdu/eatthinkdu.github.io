@@ -21,7 +21,7 @@ Shanghai has become an incredible city with the future and the past coexisting, 
 
 My favorite part though, had to be the food and the quality you could get for almost nothing.
 
-<h3>Here's my guide to eating in Shanghai -- for under $5.</h3>
+<h3>Here's my guide to eating in Shanghai -- all for under $5.</h3>
 
 <h3>Bao: $0.50 for 2</h3>
 <i>Bao zi</i>, or just <i>bao</i>, are steamed buns with filling on the inside, and are a really popular, traditional Chinese snack or meal. Across 3 days, I tried the veg (left), <i>naidan</i> (right, essentially a custard made with eggs and milk), red bean, and carrot. All delicious. All $0.25 each. Sold at a little stand right next to where I was staying where they only spoke Shanghainese.
