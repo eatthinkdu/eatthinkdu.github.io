@@ -26,7 +26,7 @@ I sometimes felt stuck.
 
 <h3>Some people call struggle by another name. I personally quite like "growth."</h3>
 
-Through it all, I learned about the power of <b>surrounding myself with people who saw me for who I could be, and not for who I necessarily was in the moment</b>. Especially a Zulu Queen, a programmer turned technology educator, and a new coder with a thousand lives. Nothing was more motivating than people by my side genuinely advocating for my success, and weren't afraid to tell me straight when I could do better. 
+Through it all, I learned about the power of <b>surrounding myself with people who saw me for who I <i>could</i> be</b>. Especially a Zulu Queen, a programmer turned technology educator, and a new coder with a thousand lives. Nothing was more motivating than people by my side genuinely advocating for my success, and weren't afraid to tell me straight when I could do better. 
 
 When I could <i>be</i> better.
 

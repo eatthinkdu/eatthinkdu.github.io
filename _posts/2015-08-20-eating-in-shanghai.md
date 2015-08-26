@@ -2,7 +2,7 @@
 layout:     post
 title:      "How to Spend $5"
 subtitle:   "Eating in Shanghai"
-date:       2015-08-22
+date:       2015-08-20
 author:     "Erica"
 header-img: "img/eat/shanghai/skyline.JPG"
 category: eat
