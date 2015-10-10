@@ -13,7 +13,7 @@ tags: [du]
 
 They're smart. They're adorable. They're massive yet friendly. They're exotic. Everyone, and I mean everyone, can't help but fall in love with them.
 
-<center><img src="{{site.url}}/img/du/thailand/elephants/smile.JPG" height="375px" width="600px" style="padding:20px;display:inline-block"/></center>
+<center><img src="{{site.url}}/img/du/thailand/elephants/smile.JPG" width="600px" style="padding:20px;display:inline-block"/></center>
 
 It came as a huge shock to me that the majority of elephants in Thailand are actually <i>suffering</i> working in the tourism industry. 
 <h3>My day visiting the Elephant Jungle Sanctuary was both a fun, and eye-opening experience.</h3>
