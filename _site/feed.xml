@@ -5,62 +5,9 @@
     <description>Write your site description here. It will be used as your sites meta description as well!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Dec 2015 23:12:31 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2015 23:12:31 -0500</lastBuildDate>
+    <pubDate>Wed, 09 Dec 2015 23:21:02 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Dec 2015 23:21:02 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Itinerary</title>
-        <description>&lt;h3 class=&quot;section-heading&quot;&gt;Cambodia&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Time spent:&lt;/b&gt; 1 week&lt;br /&gt;
-&lt;b&gt;Suggested time:&lt;/b&gt; 1.5-2 weeks&lt;br /&gt;
-&lt;b&gt;Transportation:&lt;/b&gt; Use buses. The most reliable bus internally is Giant Ibis. I also used Mekong Express to get to/from Vietnam. Pro-tip: if you’re short on time and don’t mind a perfect night’s sleep, overnight buses are not that sketchy. Make sure you see which bed seat they book you if you’re going alone though, some buses are weird and have double beds, and you don’t want to be next to some rando.&lt;br /&gt;
-&lt;b&gt;Food:&lt;/b&gt; Need to go to night market in Phnom Penh. Eat the Fish Amok!!&lt;/p&gt;
-&lt;h3&gt;[Cities I Went]&lt;/h3&gt;
-&lt;h4&gt;Phnom Penh:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;u&gt;Thoughts&lt;/u&gt;: must go. If you&#39;re short on time, spend a half day to a day here (I spent half a day and that was enough). &lt;/li&gt;
-  &lt;li&gt;&lt;u&gt;What to do&lt;/u&gt;: I saw the Killing Fields (sad, worth it, do some pre-reading before visiting, I read &lt;i&gt;First They Killed My Father&lt;/i&gt; and thought taht was useful), and S21, the Genocide Museum (less impactful, but also worth it. Bring a student ID to get in for free.)&lt;/li&gt;
-  &lt;li&gt;&lt;u&gt;Where I Stayed&lt;/u&gt;: Mad Monkey Phnom Penh. Fun party type hostel. More beer pong than I&#39;ve ever played in my life. Avoid if you want a good night&#39;s sleep and are not ok with meeting gap yah brits.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Siem Reap:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;u&gt;Thoughts&lt;/u&gt;: best city I visited in Cambodia solely due to angkor wat. I spent 3 days there and that was enough. You could probably do 2.&lt;/li&gt;
-  &lt;li&gt;&lt;u&gt;What to do&lt;/u&gt;: Angkor Wat (plus all the other temples, including the smaller ones) - get a 3 day pass if you&#39;re into old shit, get a 1 day pass if you&#39;re going to say you went to Angkor Wat or if you&#39;re short on time. Get a tour guide so you know what&#39;s going on, and go at sunrise. Getting a 3 day pass is nice because you&#39;re going to be exhausted at like 11 am and then you can go back on subsequent days to see the smaller temples (which are way cool!). ATV sunset tour through the rice paddies is also worth it.&lt;/li&gt;
-  &lt;li&gt;&lt;u&gt;Where I stayed&lt;/u&gt;: Mad Monkey Siem Reap. Again, party type hostel but with a pool. Did not like it here.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Sihanhoukville:&lt;/h4&gt;
-&lt;ul&gt;&lt;li&gt;&lt;u&gt;Thoughts&lt;/u&gt;: honestly this place sucked and you should avoid at all costs. I spent 1 night and that was 1 night wasted. There&#39;s nothing to do here except drink, and the drinking is not that fun.&lt;/li&gt;&lt;/ul&gt;
-&lt;h4&gt;Koh Rong:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;u&gt;Thoughts&lt;/u&gt;: idyllic island, cool if you want to properly beach bum. less developed than Thai islands, it&#39;s backpacker&#39;s paradise. You can easily get stuck here and not want to leave.&lt;/li&gt;
-  &lt;li&gt;&lt;u&gt;What to do&lt;/u&gt;: I chilled on the main beach for 2 days and it was glorious. This island also knows how to party, and the Cambodians will come out and join you. It&#39;s awesome.&lt;/li&gt;
-  &lt;li&gt;&lt;u&gt;Where I stayed&lt;/u&gt;: Three Brothers? I honestly don&#39;t remember but I got a private room for like $3 or something ridiculous. Monkey Island has nice bungalows though.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;[Places I Wish I Went]&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;u&gt;Kampot&lt;/u&gt;: lazy city on the river, supposed to be beautiful and a bit more authentic. was told to stay at arcadia.&lt;/li&gt;
-  &lt;li&gt;&lt;u&gt;Battambang&lt;/u&gt;: was also told this was a bit more authentic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Vietnam&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Time spent:&lt;/b&gt; 3 weeks&lt;br /&gt;
-&lt;b&gt;Suggested time:&lt;/b&gt; 4 weeks (that’s how long you get on your visa)&lt;br /&gt;
-&lt;b&gt;Transportation:&lt;/b&gt; Sleeper buses in Vietnam are awesome. Do not get the hop on/hop off bus deal, it’s not worth it and it decreases flexibility. Plus the companies they put you with have varying degrees of sketchiness. Try to either motorbike or take the train through Hai Van Pass! That’s the only place I would recommend not busing.&lt;br /&gt;
-&lt;b&gt;Food:&lt;/b&gt; Banh mi, you should be paying 10.000-20.000 for it, 30.000 - 60.000 for pho. Would also recommend banh xeo (egg/bean sprout/seafood crepe pancake).&lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt;[Cities I Went]&lt;/h3&gt;
-&lt;h4&gt;Saigon&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;u&gt;Thoughts&lt;/u&gt;
-&lt;/li&gt;&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 09 Dec 2015 23:12:22 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/09/itinerary/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/09/itinerary/</guid>
-        
-        
-      </item>
     
       <item>
         <title>You in Southeast Asia</title>
@@ -87,7 +34,7 @@
 
 &lt;p&gt;All these buzzwords - “freedom,” “adventure” - that mean absolutely nothing on their own will mean something to you. They will mean having to use every language you know and some that you don’t to get back home after dark because transportation doesn’t work like they should. They will mean trusting locals more than you do google maps, and ignoring 80% of advice from books and blogs (probably including this one).&lt;/p&gt;
 
-&lt;h3&gt;Because a lot of people have been asking me, this post will cover practical advice and suggestions hoping or planning to go to Southeast Asia.&lt;/h3&gt;
+&lt;h3&gt;Because a lot of people have been asking me, this post will cover practical advice and suggestions for those hoping or planning to go to Southeast Asia.&lt;/h3&gt;
 
 &lt;p&gt;&lt;b&gt;I will also post &lt;a href=&quot;/du/2015/12/02/itinerary/&quot; target=&quot;_blank&quot;&gt;my itinerary&lt;/a&gt; for reference.&lt;/b&gt;&lt;/p&gt;
 
@@ -152,146 +99,6 @@
       </item>
     
       <item>
-        <title>I&#39;m Not That Codegirl</title>
-        <description>&lt;h3&gt;Team United Smart Girls. Eliminated.&lt;br /&gt;Team iFrench. Advances.&lt;br /&gt;Team Tech Voca. Eliminated.&lt;/h3&gt;
-
-&lt;p&gt;Girls are crying. Girls are squealing. Girls are looking blankly at an announcer on a laptop screen as she calls out the team names that made the seminfinals. The piano background music starts resembling the new Adele single, as we, the audience, witness the eliminated teams heartbreak.&lt;/p&gt;
-
-&lt;p&gt;After a brief overview of the judging critieria, the camera quickly pans to lush green grass, a new england style brick church, a banner reading “Phillips Academy,” and 4 teens in shiny Macbooks, sporting the latest iPhone. Of course, they have advanced onto the semifinals.&lt;/p&gt;
-
-&lt;p&gt;“I got like 5 texts in a row.”&lt;/p&gt;
-
-&lt;p&gt;“Yeah, when there’s, like, 3 texts in a row, that usually means bad news, but when there’s 20 that means, like, someone’s excited.”&lt;/p&gt;
-
-&lt;h3&gt;Face palm. Seriously. Like I actually had a physical reaction to this scene, and it consisted of a mixture of my hand hitting my face with the words &quot;oh god&quot; being vocalized.&lt;/h3&gt;
-
-&lt;p&gt;Last week, Codecademy held a company screening of &lt;b&gt;CODEGIRL&lt;/b&gt;, a new documentary intended to inpire girls to learn how to code. As a female engineer in a male-dominated profession, as well as someone passionate about helping other people learn how to code, this was right up my alley. Especially since I’ve seen gender dynamics play out in a couple of my past work environments, as well as in my students.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;CODEGIRL&lt;/b&gt; is centered around the Technovation Challenge, a mobile app and pitch competition for high school girls. It’s produced by Lesley Chilton, the same woman known for producing An Inconvenient Truth and Waiting for Superman – two documentaries I loved.&lt;/p&gt;
-
-&lt;p&gt;The film’s mission is noble: inspire girls, especially high school girls, to code. Feature girls like them creating apps that address real community issues, solving problems through technology.&lt;/p&gt;
-
-&lt;p&gt;However, whether intentional or accidental, I found the director’s not-so-subtle commentary about the purposeless of first world technology to be overwhelming. It truly is frustrating seeing solutions that could solve real problems like domestic violence awareness, water quality, and volunteer efforts get edged out by an app that is trying to fight social media depression with even more social media, because one team clearly has access to more resources than another – I’m talking through money, technology, education, parental involvement, background, upbringing.&lt;/p&gt;
-
-&lt;p&gt;Watching this film didn’t leave me feeling inspired as it did disappointed as to how non-technical people might be viewing tech startups: an opportunity for entrepreneurs, rather than engineers. What happened to building impactful things that can change the world? That can &lt;i&gt;actually change the world&lt;/i&gt; and solve something people are suffering with every day? Is this the direction technology is moving towards?&lt;/p&gt;
-
-&lt;p&gt;I’m excited people are learning how to code. I’m excited other people are excited about learning how to code. I truly believe coding is the new literacy, and that the internet revolutionized coding like the printing press did for literacy.&lt;/p&gt;
-
-&lt;h3&gt;But coding isn&#39;t just a way to create a company dammit.&lt;/h3&gt;
-
-</description>
-        <pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/think/2015/11/03/codegirl/</link>
-        <guid isPermaLink="true">http://localhost:4000/think/2015/11/03/codegirl/</guid>
-        
-        <category>think</category>
-        
-        
-        <category>think</category>
-        
-      </item>
-    
-      <item>
-        <title>How To Adult</title>
-        <description>&lt;h3 class=&quot;section-heading&quot;&gt;Returning to America has made it very clear to me, that I am not yet an &quot;adult.&quot;&lt;/h3&gt;
-
-&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/adulthood/realworld.bmp&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
-
-&lt;p&gt;I suppose I have delayed the inevitable for a glorious amount of time. I did what any self-respecting, future-fearing, wander-lusting, determined slash ambitious but confused MIT grad would do.&lt;/p&gt;
-
-&lt;p&gt;Grad school. Followed by an epic eat-pray-love-but-no-i-was-not-finding-myself trip abroad.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;img src=&quot;http://localhost:4000/img/think/adulthood/worldfun.bmp&quot; height=&quot;300px&quot; width=&quot;300px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/think/adulthood/book.bmp&quot; height=&quot;300px&quot; width=&quot;350px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
-
-&lt;p&gt;But, after observing the majority of my friends, and listening to various comments by &lt;strike&gt;judgemental&lt;/strike&gt; relatives, I’ve deduced that, there is hope for me yet, I’m on track, and that the path to adulthood is comprised of a few pillars.&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/adulthood/adult.bmp&quot; height=&quot;300px&quot; width=&quot;400px&quot; style=&quot;padding-top:10px;padding-bottom:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
-
-&lt;h3&gt;1. Have an adult job.&lt;/h3&gt;
-&lt;p&gt;Absolutely crucial to entering the real world. An adult job is something that you might have to explain to others because it sounds complicated. An adult job is usually hard to obtain when the economy is not so hot, and requires some sort of university degree. The more technical it sounds, the more adult you sound. Most importantly, an adult job is the beginning of a “career.”&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/adulthood/jobs.bmp&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
-
-&lt;h3&gt;2. Have your own room in an apartment or house that you pay your own rent for.&lt;/h3&gt;
-
-&lt;p&gt;The key to this is the number and type of roommates you have. You can live with at most 3 other roommates, but the fewer the roommates, the more adult you are. Roommates who were not in the same college fraternity or sorority as you are also considered more adult. Parents and/or guardians do not qualify as roommates.&lt;/p&gt;
-
-&lt;p&gt;If you live in the city, bonus points for a concierge desk, a breathtaking rooftop view, and an elevator that automatically schedules floors.&lt;/p&gt;
-
-&lt;h3&gt;3. Wear sweaters and plain-colored pants. Not skinny jeans or leggings. Actual pants. Or at least own them.&lt;/h3&gt;
-
-&lt;h3&gt;4. Pay attention to details. Like eyebrows. And sweater fuzz.&lt;/h3&gt;
-
-&lt;h3&gt;5. Have a long-term significant other. Bonus points for a dog serving as a proxy child.&lt;/h3&gt;
-</description>
-        <pubDate>Fri, 30 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/think/2015/10/30/2015-10-30-adulthood/</link>
-        <guid isPermaLink="true">http://localhost:4000/think/2015/10/30/2015-10-30-adulthood/</guid>
-        
-        <category>think</category>
-        
-        
-        <category>think</category>
-        
-      </item>
-    
-      <item>
-        <title>Soul Maintainence</title>
-        <description>&lt;h3 class=&quot;section-heading&quot;&gt;I recently returned to America after close to 3 months solo backpacking in Asia.&lt;/h3&gt;
-
-&lt;p&gt;I have so much to tell and want to share, but at the same time, don’t know what to say. Going through the logistics of which countries I visited and my itinerary, coupled with some generic adjectives like “awesome” and “amazing” is my easy way out - but it just doesn’t even come close. I get stumped at the questions -  “What was your favorite part?” “What did you learn?” “Are you happy to be back?” - not because I don’t have answers, but because I don’t know where to start.&lt;/p&gt;
-
-&lt;h3&gt;This trip changed me. But not necessarily in the ways I thought it would.&lt;/h3&gt;
-
-&lt;p&gt;I did, however, come back more sure of who I want to become, more confident in who I am, and more ok with who I used to be. It taught me about the infiniteness of life, the necessity of love, the worth of people, the illusion of time. Here are a few of the most important things I learned along the way.&lt;/p&gt;
-
-&lt;h3&gt;#1. The past provides context, but doesn&#39;t need to define the future.&lt;/h3&gt;
-
-&lt;p&gt;I think &lt;i&gt;every&lt;/i&gt; experience we ever have in our lives - from the monotony we fall into from our daily routines, to drifting aimlessly ad puposelessly, to all the times we spectalularly fuck up and keep fucking up - they all make up who we are.&lt;/p&gt;
-
-&lt;p&gt;We are the good, and we are the bad.&lt;/p&gt;
-
-&lt;h3&gt;#2. Meeting people is a skill that can be developed.&lt;/h3&gt;
-
-&lt;p&gt;For all the recent grads out there, we all know meeting people get considerably harder after college. No more random drunken frat parties where you become biffles with literally everone in the room because you’re wearing the same color shirt or some other dumb shit like that. But solo travelling taught me that meeting poeple is a skill, and something you can get better at just by practicing, and something worth practicing.&lt;/p&gt;
-
-&lt;h3&gt;Lesson #2. Travel Erica should be real life Erica.&lt;/h3&gt;
-
-&lt;p&gt;Something about leaving the country transforms me. I’m not saying I’m a completely different person. To to a certain degree, I am way more willing to take risks, agree to do dumb shit way more frequently, and don’t hesitate to stand up for myself when things are out of line. It’s weird - why do I need to fly halfway across the world to be another version of me? Now that I’m back in NYC (and away from MIT, phew), I can feel myself bringing the same attitude and independence and courage back with me.&lt;/p&gt;
-
-&lt;p&gt;And Travel Erica has never felt so at home.&lt;/p&gt;
-
-&lt;h3&gt;Lesson #3. The right people at the right time can change your life...if you let them.&lt;/h3&gt;
-&lt;p&gt;I used to hate it when people said “My favorite part of [working/studying/being] here is the people.” That’s almost as bad as telling me “I love the culture.” What does that actually mean. There is nothing useful about those statements. Seriously.&lt;/p&gt;
-
-&lt;p&gt;But after meeting tens of people every week, and hundreds of people across months, I have to say that it’s true.&lt;/p&gt;
-
-&lt;p&gt;Over the past few months, I’ve met people who have challenged my beliefs, who have forced me to confront my past demons, who have cared about me in magnitudes I couldn’t comprehend, who have restored my faith in random acts of kindness bestowed upon lost strangers.&lt;/p&gt;
-
-&lt;p&gt;People who make you feel whole, and human, and connected. People that teach you about themselves, and then about yourself.&lt;/p&gt;
-
-&lt;h3&gt;Lesson #3. Fuck imposter syndrome.&lt;/h3&gt;
-
-&lt;p&gt;Basically,&lt;/p&gt;
-
-&lt;h3&gt;Lesson #4. Being scared is a calculated challenge. Prove yourself wrong.&lt;/h3&gt;
-
-&lt;blockquote&gt;&quot;You get a strange feeling when you&#39;re about to leave a place, like you&#39;ll not only miss the people you love but you&#39;ll miss the person you are now at this time and this place, because you&#39;ll never be this way ever again.&quot; -Reading Lolita in Tehran (Azar Nafisi)&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 27 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/think/2015/10/27/reflection/</link>
-        <guid isPermaLink="true">http://localhost:4000/think/2015/10/27/reflection/</guid>
-        
-        <category>think</category>
-        
-        
-        <category>think</category>
-        
-      </item>
-    
-      <item>
         <title>Thailand Highlights</title>
         <description>&lt;h3 class=&quot;section-heading&quot;&gt;Compared to Vietnam and Cambodia, Thailand was shockingly easy.&lt;/h3&gt;
 
@@ -330,23 +137,6 @@
         <pubDate>Tue, 13 Oct 2015 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/think/2015/10/13/thailand/</link>
         <guid isPermaLink="true">http://localhost:4000/think/2015/10/13/thailand/</guid>
-        
-        <category>think</category>
-        
-        
-        <category>think</category>
-        
-      </item>
-    
-      <item>
-        <title>Why You Should Backpack Alone</title>
-        <description>&lt;h3&gt;You meet people who will change you.&lt;/h3&gt;
-
-&lt;p&gt;In some way or another, in big ways or small ways, you’ll meet other backpackers or locals that will impact the way you view the world, the way you view life, the way you view yourself. When travelling, relationships are accelerated ten-fold, and even though the number of days you spend with certain people are small, the amount and diversity of things you’re doing together and talking about cover significant amounts of ground, getting to places where friendships in “real life” might take months to reach.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/think/2015/10/13/backpack/</link>
-        <guid isPermaLink="true">http://localhost:4000/think/2015/10/13/backpack/</guid>
         
         <category>think</category>
         
@@ -470,6 +260,371 @@
         
         
         <category>du</category>
+        
+      </item>
+    
+      <item>
+        <title>Vietnam: Part II</title>
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;I hate to play favorites, but the north of Vietnam was the best.&lt;/h3&gt;
+
+&lt;p&gt;My last 10 days consisted mostly of trekking, exploring, visiting quirky joints, and being surrounded by awe-inspring nature. Everything I ever wanted but didn’t expect.&lt;/p&gt;
+
+&lt;h3&gt;Phong Nha&lt;/h3&gt;
+&lt;p&gt;Hands down my favorite spot in Vietnam. Backpackers come to Phong Nha for one thing and one thing only - caving in the national park. As a result, there is just one backpacker&#39;s hostel, Easy Tiger, in a small makeshift town with just a couple of restaurants, cafes, and bars. In total, our group visited 4 caves across 2 days, each unique and worthwhile for different reasons. The Paradise Cave stuck out for its sheer size and structural beauty, but the Dark Cave was my favorite just for the adventure experience of kayaking, ziplining, swimming, and trodding through a mud pit. Besides caving, Phong Nha is home to Pub with the Cold Beer, where customers can catch and kill their own chicken, and then eat it immediately. Quite possibly the best chicken dinner I&#39;ve had in my entire life, with cold beer (as promised) and hammocks to boot. Easy Tiger itself was an awesome hub, with live music almost every night. Take me back?&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/boat.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/cave.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/opening.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/pub.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Cat Ba Island&lt;/h3&gt;
+&lt;p&gt;Instead of taking the infamous $200+ Ha Long Bay booze cruise from Hanoi, I opted to take a 1 day Ha Long Bay tour from Cat Ba for $20. Weather was teetering between perfect and sprinkly, which was less than ideal, but we still had an awesome time cruising, swimming, snorkelling, kayaking, and just chilling on a boat together. I also learned how to &lt;a href=&quot;/think/2015/09/22/best-of-vietnam/&quot; target=&quot;_blank&quot;&gt;moped!&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/fishing.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/island.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/kayak.jpg&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/moto.jpg&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Sa Pa&lt;/h3&gt;
+&lt;p&gt;In short, breathtaking and surreal. I’ll let the pictures speak for themselves. We spent 1 full day trekking from town to a homestay in a Hmong village. We walked through jungle, down lush rice paddies, across a river. If that sounded like a Dora the Explorer episode, that’s because it still blows my mind that a place that stunning exists in real life, and that people live there.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/valley.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/clouds.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/paddies.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/layer.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Hanoi&lt;/h3&gt;
+&lt;p&gt;Literally spent maybe 4 waking hours in Hanoi, which I concluded was actually crazier than Saigon. Was caught in a lot of rain, and running short on time, so wasn’t able to do as much exploring as I would’ve liked.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/parttwo/roundabout.jpg&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+</description>
+        <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/think/2015/10/01/vietnam-part-ii/</link>
+        <guid isPermaLink="true">http://localhost:4000/think/2015/10/01/vietnam-part-ii/</guid>
+        
+        <category>think</category>
+        
+        
+        <category>think</category>
+        
+      </item>
+    
+      <item>
+        <title>Vietnam: Part I</title>
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;3 weeks. 9 stops.&lt;/h3&gt;
+&lt;p&gt;I spent the first 10 days mostly in cities, ranging from the non-stop craziness and heat of Saigon, to the peaceful, cooler, alps-like Dalat. My time in south and central Vietnam is characterized mostly by delicious, cheap food, heaps of energy, and a good dose of culture and history.&lt;/p&gt;
+
+&lt;h3&gt;Saigon (Ho Chi Minh City)&lt;/h3&gt;
+
+&lt;p&gt;First stop in Vietnam, and immediately overwhelmed by the constant, never-stopping flow of mopeds and motorcycles. Something as simple and mundane as crossing the street suddenly became a whole new adventure. The only way to cross a street was to take the first step, walk at a constant velocity straight, and trust that bikes would swerve out of your predicted path. I visited the War Remants Museum, which was gut wrenchingly sad especially as an American. Other than that, I spent most of my time in Saigon walking around the city trying to soak up its hustle bustle energy, eating as much street food as possible.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/banhmi.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/market.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/war.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/streets.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Dalat&lt;/h3&gt;
+
+&lt;p&gt;What is there not to love about Dalat? When I arrived, the sun was setting, I was alone, and worst of all, quickly realizing I was lost. I wandered into a hotel looking for directions and discovered I was not a 5 minute walking distance from my hostel, but a 50 minute walk away. The older woman I was talking to immediately jumped up to help me, put my stuff on her scooter, and took me to where I was supposed to be without asking for any compensation. Besides &lt;a href=&quot;/du/2015/09/06/canyoning-in-dalat/&quot; target=&quot;_blank&quot;&gt;canyoning&lt;/a&gt;, which is still one of the &lt;a href=&quot;/think/2015/09/22/best-of-vietnam/&quot; target=&quot;_blank&quot;&gt;highlights&lt;/a&gt; of my time in Vietnam, I also went on a motorbike tour of the countryside, learning how silk, coffee, and rice wine are produced. Beautiful views combined with a cooler climate, an adorable family hostel, the best bakery I found in Vietnam, and especially great people makes Dalat my favorite city in southern Vietnam.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/farm.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/fall.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/coffee.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/bakery.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Nha Trang&lt;/h3&gt;
+&lt;p&gt;Had a 3 hour bus &quot;layover&quot; in this beach town so headed to the only thing there was to see - the beach. Worth mentioning only for the BEST &lt;i&gt;banh xeo&lt;/i&gt; I got on a random corner for less than a dollar.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/nhatrang.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/banhxeo.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Hoi An&lt;/h3&gt;
+&lt;p&gt;After 16 hours on a bus, Hoi An was heaven. Rented a bicycle for the day and biked around the old city, and found my way to the beach. Charming and vintage-looking, with a market right along the river, colorful boats, and walking streets. Most photogenic city ever.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/hoian.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/river.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/beach.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/boats.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Hue&lt;/h3&gt;
+&lt;p&gt;Spent 2 days in Hue, which was more than enough. Highlight was the market, which was packed with good deals, cheap eats, and no tourists in sight. Also visited the DMZ (de-militarized zone) to learn more about the effects of the Vietnam War (or, the “American War” as they call it), and also their perception of America.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/hue.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/citadel.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/vietnam/partone/dmz.JPG&quot; height=&quot;600px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+</description>
+        <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/think/2015/10/01/vietnam-part-i/</link>
+        <guid isPermaLink="true">http://localhost:4000/think/2015/10/01/vietnam-part-i/</guid>
+        
+        <category>think</category>
+        
+        
+        <category>think</category>
+        
+      </item>
+    
+      <item>
+        <title>Best of Vietnam</title>
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;Dudes. I fell in love with this country.&lt;/h3&gt;
+
+&lt;p&gt;With its vibrant energy, the organized chaos, the frenzied craziness of the locals (the Vietnamese are insane), stepping through swarms of motorbikes hoping you’d make it out unscathed.&lt;/p&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/streets.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Saigon at sunset.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;p&gt;With the constantly changing yet consistently beautiful terrain, the diversity and richness of things to do and places to explore. Beaches, mountains, rice paddies, caves, jungles, waterfalls.&lt;/p&gt;
+
+&lt;p&gt;With putting lime on all my noodles, hunting for the cheapest &lt;i&gt;banh mi&lt;/i&gt;, sipping on a perfect cup of coffee with condensed milk every morning (and afternoon…and evening…).&lt;/p&gt;
+
+&lt;p&gt;You could &lt;i&gt;feel&lt;/i&gt; the life pulsing through the streets.&lt;/p&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/pho.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;A perfect bowl of pho.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;h3&gt;And I loved who I was while I was there.&lt;/h3&gt;
+
+&lt;p&gt;The more time I spent in Vietnam, the more I became consumed by it and by the backpacker lifestyle, the more I just &lt;b&gt;&lt;i&gt;let. it. happen.&lt;/i&gt;&lt;/b&gt; In between adventuring, I’ll remember the countless rounds of pool, games of cards won and lost, bonds forged through stories swapped, mounds of inside jokes shared between groups from all over the world, happy hours that passed like minutes.&lt;/p&gt;
+
+&lt;p&gt;I only have fond memories from my time there – to be honest, I’m even a little sad my visa expired and I’m already in Thailand. I’ll be catching up on blogging sometime soon, but for now, just some of my favorite moments from my time in Vietnam.&lt;/p&gt;
+
+&lt;h3&gt;Trip Highlights&lt;/h3&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/canyon.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Abseiling down waterfalls and cliff jumping in Dalat.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/phongnha.jpg&quot; height=&quot;400px&quot; width=&quot;800px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Absolutely everything about Phong Nha. Especially the Dark Cave.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/motorbike.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Learning how to motorbike on Cat Ba Island.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/sweet.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Trying the Cat Ba sweet, and getting an extra special treat.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/sapa.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Clouds and mountains and rice paddies and trekking in Sapa.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/vietnam/highlights/friend.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Meeting this goon. Travel buddy for 10 days, friend for life.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/think/2015/09/22/best-of-vietnam/</link>
+        <guid isPermaLink="true">http://localhost:4000/think/2015/09/22/best-of-vietnam/</guid>
+        
+        <category>think</category>
+        
+        
+        <category>think</category>
+        
+      </item>
+    
+      <item>
+        <title>Canyoning in Dalat</title>
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;&quot;Don&#39;t be lazy, get crazy!&quot;&lt;/h3&gt;
+
+&lt;p&gt;It’s 7 AM, I’m in a white van with 9 people I just met, having been in Dalat for fewer than 11 hours, while 3 overly enthusiastic Vietnamese men shout that phrase at us. Multiple times.&lt;/p&gt;
+
+&lt;p&gt;I had arrived at my homestay the night before by sleeper bus from Ho Chi Minh city, and stumbled into a huge conversation about &lt;a href=&quot;https://en.wikipedia.org/wiki/Canyoning&quot; target=&quot;_blank&quot;&gt;canyoning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;i&gt;&quot;You climb down waterfalls! You take a 11 m jump!&quot;&lt;br /&gt;
+&quot;You have to do it! It&#39;s amazing!&quot;&lt;/i&gt;
+&lt;/center&gt;
+&lt;p&gt;Damn peer pressure.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;i&gt;&quot;...yeah except the 11 m jump is a bit scarier, you have to clear about 1 m of rocks. You have to run otherwise you&#39;re done for.&quot;&lt;/i&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Damn rocks.&lt;/p&gt;
+
+&lt;h3&gt;But after jumping off a &lt;u&gt;&lt;a href=&quot;/du/2015/06/28/a-216m-leap-of-faith/&quot; target=&quot;_blank&quot;&gt;216 m bridge&lt;/a&gt;&lt;/u&gt;, how scary could a 11 m waterfall be?&lt;/h3&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/du/canyon/crew.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Cozy Nook crew (Katie, Ed, Theo, and I) with Tiger and Banana.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Our group of 10, including 3 others from my homestay, scramble out of the van onto the side of a road about 20 minutes outside of the city, and then our energetic guides, Banana, Tree, and Tiger, help us put our equipment on: life jackets, harnesses, helmets, gloves…even knee pads.&lt;/p&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/du/canyon/group.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Full squad.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;h3&gt;The adventure begins.&lt;/h3&gt;
+
+&lt;p&gt;After trekking in the jungle for about 15 minutes, we arrive at a small waterfall (read: bump in the stream) and Tree stops us. First up is water sliding!&lt;/p&gt;
+
+&lt;center&gt;
+&lt;i&gt;&quot;Ladies first!&quot;&lt;/i&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Tree grabs my hand, and although a little hesitant to be the first in the entire group, I say fuck it and go with him. I barely sit down before I feel Tree grabbing my ankles, rotating me, until I realize what’s happening.&lt;/p&gt;
+
+&lt;p&gt;Wait, what, hey, feet first feet first!&lt;/p&gt;
+
+&lt;p&gt;I’m yelling, pleading, but it’s too late and I am being swept away by the water, head first, back to the unknown, unaware of what’s ahead.&lt;/p&gt;
+
+&lt;h3&gt;And that&#39;s the genius of it, what makes the ride almost peaceful.&lt;/h3&gt;
+
+&lt;p&gt;The fact that you can’t see what’s ahead, there’s nothing distracting you, and all you can do is ride the feeling, the movement at &lt;i&gt;that&lt;/i&gt; moment in time. You don’t know when you’ll plunge into the water, just that you will, and there’s no planning ahead or bracing yourself.&lt;/p&gt;
+
+&lt;p&gt;After a couple rounds (including some tandem sliding), our group moves on to abseiling – scaling down waterfalls.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;i&gt;&quot;Ladies first!&quot;&lt;/i&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Tree gestures to me again. I’m beginning to see a pattern. Before I start scaling the waterfall, I get one heads up.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;i&gt;&quot;You&#39;ll run out of rope, so you&#39;ll have to let go and fall the last 4 m.&quot;&lt;/i&gt;
+&lt;/center&gt;
+
+&lt;p&gt;I make my way down the waterfall fairly easily (woo!), until I run out of rope – as expected. Getting ready for my real life trust fall, I take a break from staring at the rock face, and look down.&lt;/p&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/du/canyon/waterfall.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Abseiling down the first waterfall.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;h3&gt;Ha. There is &lt;i&gt;no&lt;/i&gt; way that is 4 m. There is absolutely no way.&lt;/h3&gt;
+
+&lt;p&gt;I look up at Tree, I look down at Tiger, I look back up at Tree, expecting them to contradict what I know is coming next.&lt;/p&gt;
+
+&lt;center&gt;
+  &lt;i&gt;&quot;1, 2, 3!!&quot;&lt;/i&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Before my brain and body registers what is happening, I’ve pushed off the waterfall, let go of the rope, and have already landed in the water.&lt;/p&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/du/canyon/falling.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Letting go. I do not remember this moment.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;p&gt;My landing is calm and still compared to the force of the waterfall, the water is shallow enough that I walk to shore to await the others. I watch over and over again, as each person reaches the end, as each person scoffs when it is their turn to trust, when it is their turn to fall.&lt;/p&gt;
+
+&lt;h3&gt;Before every jump is a bit of disbelief and doubt, a moment of hesitation, almost as if it&#39;s built into our very nature to be a bit skeptical, even when we know we&#39;ll be ok.&lt;/h3&gt;
+
+&lt;p&gt;This exact suspension of trust hit me the worst during the 11 m jump.&lt;/p&gt;
+
+&lt;p&gt;After abseiling, our group reaches a cliff, the one with a bit of rock jutting out. When it is my turn, I clarify and double check where I am supposed run, where I am supposed to jump, pacing from the starting point to the cliff multiple times. I muster up some mental energy, and think of Theo and Ed who just jumped before me.&lt;/p&gt;
+
+&lt;h3&gt;Finally, I think I&#39;m ready.&lt;/h3&gt;
+
+&lt;p&gt;I walk back, until I hit the tree, and I start jogging towards the edge.&lt;/p&gt;
+
+&lt;p&gt;1, 2, 3 steps, 4 steps, 5, 6, and then….I stop.&lt;/p&gt;
+
+&lt;h3&gt;My feet halt a few inches before my jump, and I turn around.&lt;/h3&gt;
+&lt;center&gt;&lt;i&gt;Shit.&lt;/i&gt;&lt;/center&gt;
+
+&lt;p&gt;Banana puts down his camera with a concerned look on his face, encouraging, almost emphatic as he approaches me.&lt;/p&gt;
+
+&lt;center&gt;&lt;i&gt;&quot;Be strong! If you no strong, don&#39;t jump. Be mentally strong. Strong!&quot;&lt;/i&gt;&lt;/center&gt;
+
+&lt;p&gt;And then I get it.&lt;/p&gt;
+
+&lt;p&gt;What I soon realize is that the &lt;b&gt;jump is not about the physical jump at all&lt;/b&gt;. Rather, it is a battle with your mind, and winning it requires you to first stop focusing on the physical, and tackle insecurity head on.&lt;/p&gt;
+
+&lt;h3&gt;You become what you think you are.&lt;/h3&gt;
+
+&lt;p&gt;If you commit, if you think and tell yourself you’re going to clear the rocks until you believe it, you will; if you’re scared or hesitant, you won’t.&lt;/p&gt;
+
+&lt;p&gt;To be honest, we were all physically capable of clearing the 1 m of rocks.&lt;/p&gt;
+
+&lt;h3&gt;The &lt;i&gt;only&lt;/i&gt; difference between those who attempted the jump and those who didn&#39;t, was mindset.&lt;/h3&gt;
+
+&lt;p&gt;That thought really stuck with me, has still stuck with me, especially when I think of all the times when &lt;b&gt;we&lt;/b&gt; are the &lt;b&gt;only&lt;/b&gt; things that hold ourselves back.&lt;/p&gt;
+
+&lt;p&gt;With that, I walk back to the tree again, this time with a whole new approach. I fixate at the water in front of me and think.&lt;/p&gt;
+
+&lt;h3&gt;I am strong. I am jumping. And yeah. I&#39;m making it.&lt;/h3&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/du/canyon/jump.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+&lt;/center&gt;
+</description>
+        <pubDate>Sun, 06 Sep 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/du/2015/09/06/canyoning-in-dalat/</link>
+        <guid isPermaLink="true">http://localhost:4000/du/2015/09/06/canyoning-in-dalat/</guid>
+        
+        <category>du</category>
+        
+        
+        <category>du</category>
+        
+      </item>
+    
+      <item>
+        <title>Snapshots of Cambodia</title>
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;Cambodia.&lt;/h3&gt;
+
+&lt;p&gt;It’s got the chill beach vibes of south Thailand, the cultural vibes of Vietnam, and can still hold its own with its national relics – all without the high profile.&lt;/p&gt;
+
+&lt;p&gt;You still got the drunk tourists on holiday (gap yah anyone?), restaurants serving Western food (why do I need a taco in Cambodia?), overpriced everything, and the beginnings of infrastructure built to cater to the influx of foreigners coming in (I have never used so many $1 bills).&lt;/p&gt;
+
+&lt;p&gt;But there’s still the opportunity to see a piece of Cambodia that takes only a tad more time and effort to get to, the places where you gesture wildly because English is a bit of a struggle, where you’re staring at rice paddies more than buildings, and where the dirt on the countryside roads congeal into mud to make for a crazy motorbike ride.&lt;/p&gt;
+
+&lt;p&gt;Wish I had more time to spend it in the latter and get off the beaten path, because Cambodia truly is a developing country on the brink of a tourism boom, with a rich legacy, open-hearted people, and a nostalgic sort of beauty.&lt;/p&gt;
+
+&lt;h3&gt;Trip Highlights&lt;/h3&gt;
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/cambodia/highlights/ATV.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Riding an ATV through the countryside of Siem Reap at sunset.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/cambodia/highlights/sunrise.jpg&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Staying up until sunrise at the Full Moon Party on Koh Rong.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+  &lt;img src=&quot;http://localhost:4000/img/think/cambodia/highlights/explore.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;
+  &lt;p style=&quot;margin-top:-10px;padding-bottom:20px&quot;&gt;&lt;i&gt;Exploring temples at and near Angkor Wat.&lt;/i&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+&lt;h3&gt;Phnom Penh&lt;/h3&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/phnompenh/paddy.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/phnompenh/tree.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/phnompenh/s21.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/phnompenh/nightmarket.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Sihanoukville&lt;/h3&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sihanoukville/sunset.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sihanoukville/chillin.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Koh Rong&lt;/h3&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/kohrong/boat.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/kohrong/beach.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Siem Reap&lt;/h3&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/angkor.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple1.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple2.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple3.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple4.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple5.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple6.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple7.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/temple8.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/ricepaddy.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/roads.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/sr/sunset.JPG&quot; height=&quot;300px&quot; width=&quot;600px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+
+&lt;h3&gt;Food&lt;/h3&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/food/amok.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/food/noodles.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/food/thaicurry.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/food/bao.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/food/soup.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;img src=&quot;http://localhost:4000/img/think/cambodia/food/coco.JPG&quot; height=&quot;300px&quot; width=&quot;375px&quot; style=&quot;padding:20px;display:inline-block&quot; /&gt;&lt;/center&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/think/2015/09/01/cambodia/</link>
+        <guid isPermaLink="true">http://localhost:4000/think/2015/09/01/cambodia/</guid>
+        
+        <category>think</category>
+        
+        
+        <category>think</category>
         
       </item>
     
