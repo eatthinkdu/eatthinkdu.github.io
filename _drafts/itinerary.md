@@ -1,8 +1,19 @@
+---
+layout:     post
+title:      "You in Southeast Asia"
+subtitle:   "Part II: My Itineray"
+date:       2015-12-03
+author:     "Erica"
+header-img: "img/think/practical/cover.JPG"
+category: du
+tags: [du]
+---
+
 <h3 class="section-heading">Cambodia</h3>
 <b>Time spent:</b> 1 week<br>
 <b>Suggested time:</b> 1.5-2 weeks<br>
-<b>Transportation:</b> Use buses. The most reliable bus internally is Giant Ibis. I also used Mekong Express to get to/from Vietnam. Pro-tip: if you're short on time and don't mind a perfect night's sleep, overnight buses are not that sketchy. Make sure you see which bed seat they book you if you're going alone though, some buses are weird and have double beds, and you don't want to be next to some rando.<br>
-<b>Food:</b> Need to go to night market in Phnom Penh. Eat the Fish Amok!! 
+<b>How to Get Around:</b> Use <u>buses</u> to get between cities. The most reliable bus internally is Giant Ibis. I also used Mekong Express to get to/from Vietnam. Pro-tip: if you're short on time and don't mind a perfect night's sleep, overnight buses are not that sketchy. Make sure you see which bed seat they book you if you're going alone though, some buses are weird and have double beds, and you don't want to be next to some rando. Use <u>tuk tuks</u> to get around within a city, and be sure to bargain rates!!<br>
+<b>Food:</b> Need to go to night market in Phnom Penh. Eat the Fish Amok!! Also try the Kari/Khmer noodles.
 <h3>[Cities I Went]</h3>
 <h4>Phnom Penh:</h4>
 <ul>
@@ -34,9 +45,26 @@
 <h3 class="section-heading">Vietnam</h3>
 <b>Time spent:</b> 3 weeks<br>
 <b>Suggested time:</b> 4 weeks (that's how long you get on your visa)<br>
-<b>Transportation:</b> Sleeper buses in Vietnam are awesome. Do not get the hop on/hop off bus deal, it's not worth it and it decreases flexibility. Plus the companies they put you with have varying degrees of sketchiness. Try to either motorbike or take the train through Hai Van Pass! That's the only place I would recommend not busing.<br>
+<b>Transportation:</b> <u>Sleeper buses</u> in Vietnam are awesome. Do not get the hop on/hop off bus deal, it's not worth it and it decreases flexibility. Plus the companies they put you with have varying degrees of sketchiness. Try to either motorbike or take the train through Hai Van Pass! That's the only place I would recommend not busing. Within a city, <u>taxis</u> are actually really cheap if you can split with others. Otherwise, motorbikes are the way to go.<br>
 <b>Food:</b> Banh mi, you should be paying 10.000-20.000 for it, 30.000 - 60.000 for pho. Would also recommend banh xeo (egg/bean sprout/seafood crepe pancake).<br> 
 <h3>[Cities I Went]</h3>
 <h4>Saigon</h4>
 <ul>
-  <li><u>Thoughts</u>
+  <li><u>Thoughts</u>: just a crazy introduction to Vietnam, so many people and bustling all the time. amazing for street food, you can get awesome food at awesome prices, very easily.</li>
+  <li><u>What to Do</u>: the War Remnants Museum is a must see for Americans! I didn't go see the Cu Chi Tunnels, no regrets. Just walk around and get a feel for the city.</li>
+  <li><u>Where I Stayed</u>: Hideout Hostel, I think it was $8 for a 6 bed dorm and 2 free beers between 7-8 pm. Awesome place to meet people, bar crawl is meh but the people here are fun and friendly. Located in backpacker's district.</li>
+</ul>
+
+<h4>Dalat</h4>
+<ul>
+  <li><u>Thoughts</u>: </li>
+  <li><u>What to Do</u>: </li>
+  <li><u>Where I Stayed</u>: </li>
+</ul>
+
+<h4></h4>
+<ul>
+  <li><u>Thoughts</u>: </li>
+  <li><u>What to Do</u>: </li>
+  <li><u>Where I Stayed</u>: </li>
+</ul>
