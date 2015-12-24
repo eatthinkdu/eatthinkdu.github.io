@@ -2,7 +2,7 @@
 layout:     post
 title:      "You in Southeast Asia"
 subtitle:   "Part II: My Itineray"
-date:       2015-12-02
+date:       2015-12-23
 author:     "Erica"
 header-img: "img/think/practical/cover.JPG"
 category: du
