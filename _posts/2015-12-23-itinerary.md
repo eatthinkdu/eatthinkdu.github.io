@@ -9,7 +9,9 @@ category: du
 tags: [du]
 ---
 
-<h3 class="section-heading">Cambodia</h3>
+Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
+
+<h3 class="section-heading"><a name="top">Cambodia</a></h3>
 <b>Time spent:</b> 1 week<br>
 <b>Suggested time:</b> 1.5-2 weeks<br>
 <b>How to Get Around:</b> Use <b>buses</b> to get between cities. The most reliable bus internally is Giant Ibis. I also used Mekong Express to get to/from Vietnam. Pro-tip: if you're short on time and don't mind a perfect night's sleep, overnight buses are not that sketchy. Make sure you see which bed seat they book you if you're going alone though, some buses are weird and have double beds, and you don't want to be next to some rando. Use <b>tuk tuks</b> to get around within a city, and be sure to bargain rates!!<br>
@@ -43,11 +45,12 @@ tags: [du]
   <li><b>Battambang</b>: was also told this was a bit more authentic</li>
 </ul>
 
-<h3 class="section-heading">Vietnam</h3>
+<h3 class="section-heading"><a name="vietnam">Vietnam</a></h3>
 <b>Time spent:</b> 3 weeks<br>
 <b>Suggested time:</b> 4 weeks (that's how long you get on your visa)<br>
 <b>Transportation:</b> <b>Sleeper buses</b> in Vietnam are awesome. Do not get the hop on/hop off bus deal, it's not worth it and it decreases flexibility. Plus the companies they put you with have varying degrees of sketchiness. Try to either motorbike or take the train through Hai Van Pass! That's the only place I would recommend not busing. Within a city, <b>taxis</b> are actually really cheap if you can split with others. Otherwise, motorbikes are the way to go (renting one yourself, or hiring a rider).<br>
 <b>Food:</b> Banh mi, you should be paying 10.000-20.000 for it, 30.000 - 60.000 for pho. Would also recommend banh xeo (egg/bean sprout/seafood crepe pancake).<br> 
+<b>Blog Posts:</b> <a href="{% post_url 2015-09-06-canyoning-in-dalat %}" target="_blank">canyoning</a>, <a href="{% post_url 2015-09-22-best-of-vietnam %}" target="_blank">highlights</a>, <a href="{% post_url 2015-10-01-vietnam-part-i %}" target="_blank">north</a>, <a href="{% post_url 2015-10-02-vietnam-part-ii %}" target="_blank">south</a>
 
 <h3>[Cities I Went]</h3>
 <h4>Saigon</h4>
@@ -106,7 +109,9 @@ tags: [du]
   <li><b>Where I Stayed</b>: Hanoi Rocks. The only good place to stay. Trust me.</li>
 </ul>
 
-<h3 class="section-heading">Thailand</h3>
+<a href="#top">Back to Top</a>
+
+<h3 name="thailand" class="section-heading"><a name="thailand">Thailand</a></h3>
 <b>Time spent:</b> 3 weeks<br>
 <b>Suggested time:</b> 4-6 weeks<br>
 <b>Transportation:</b> The sleep train from Bangkok to Chiang Mai and vice versa is actually pretty awesome. Buses also work (chiang mai to pai by bus or rent a motorcycle and ride 3 hours). Flying is fastest. To get to the islands, you need to hop on a ferry (would recommend getting a flight to ferry deal, or a bus to ferry deal). Be wary of tuk tuk scams in Bangkok. Otherwise, tuk tuks and red cabs are the way to go (red cabs are actually cheapest, fixed price of 20 baht per person). In Pai, the only way to get anywhere is by motorbike.<br>
@@ -140,3 +145,5 @@ tags: [du]
   <li><b>What to Do</b>: Go to Chattuchuk weekend market and buy tons of stuff. Go out near Khao San road.</li>
   <li><b>Where I Stayed</b>: Born Free. It was super cheap.</li>
 </ul>
+
+<a href="#top">Back to Top</a>
