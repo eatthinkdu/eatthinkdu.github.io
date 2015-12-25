@@ -2,7 +2,7 @@
 layout:     post
 title:      "Vietnam: Part II"
 subtitle:   "Phong Nha to Hanoi"
-date:       2015-10-01
+date:       2015-10-02
 author:     "Erica"
 header-img: "img/think/vietnam/parttwo/cover.JPG"
 category: think
