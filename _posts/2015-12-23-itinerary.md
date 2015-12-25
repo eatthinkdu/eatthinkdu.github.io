@@ -115,7 +115,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
 <b>Time spent:</b> 3 weeks<br>
 <b>Suggested time:</b> 4-6 weeks<br>
 <b>Transportation:</b> The sleep train from Bangkok to Chiang Mai and vice versa is actually pretty awesome. Buses also work (chiang mai to pai by bus or rent a motorcycle and ride 3 hours). Flying is fastest. To get to the islands, you need to hop on a ferry (would recommend getting a flight to ferry deal, or a bus to ferry deal). Be wary of tuk tuk scams in Bangkok. Otherwise, tuk tuks and red cabs are the way to go (red cabs are actually cheapest, fixed price of 20 baht per person). In Pai, the only way to get anywhere is by motorbike.<br>
-<b>Food:</b> Food here is the bomb dot com, by far the best. Curries, papaya salad, pad thai, noodles, coconut ice creams etc. and it's all pretty reasonably priced, ~$2-3 for a pad thai/curry. Take a cooking course if you're interested in learning more!<br> 
+<b>Food:</b> Food here is the bomb dot com, by far the best. Try everything. Curries, papaya salad, pad thai, noodles, coconut ice creams, MANGO STICKY RICE etc. and it's all pretty reasonably priced, ~$2-3 for a pad thai/curry. Take a cooking course if you're interested in learning more! It'll run you ~$30 for a day-long course.<br> 
 <b>Blog Posts:</b> <a href="{% post_url 2015-10-04-elephant-jungle-sanctuary %}" target="_blank">elephants</a>, <a href="{% post_url 2015-10-11-thai-food %}" target="_blank">food</a>, <a href="{% post_url 2015-10-13-thailand %}" target="_blank">highlights</a>
 <h3>[Cities I Went]</h3>
 <h4>Chiang Mai</h4>
