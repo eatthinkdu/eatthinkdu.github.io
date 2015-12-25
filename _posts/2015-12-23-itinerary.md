@@ -50,7 +50,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
 <b>Suggested time:</b> 4 weeks (that's how long you get on your visa)<br>
 <b>Transportation:</b> <b>Sleeper buses</b> in Vietnam are awesome. Do not get the hop on/hop off bus deal, it's not worth it and it decreases flexibility. Plus the companies they put you with have varying degrees of sketchiness. Try to either motorbike or take the train through Hai Van Pass! That's the only place I would recommend not busing. Within a city, <b>taxis</b> are actually really cheap if you can split with others. Otherwise, motorbikes are the way to go (renting one yourself, or hiring a rider).<br>
 <b>Food:</b> Banh mi, you should be paying 10.000-20.000 for it, 30.000 - 60.000 for pho. Would also recommend banh xeo (egg/bean sprout/seafood crepe pancake).<br> 
-<b>Blog Posts:</b> <a href="{% post_url 2015-09-06-canyoning-in-dalat %}" target="_blank">canyoning</a>, <a href="{% post_url 2015-09-22-best-of-vietnam %}" target="_blank">highlights</a>, <a href="{% post_url 2015-10-02-vietnam-part-ii %}" target="_blank">north</a>
+<b>Blog Posts:</b> <a href="{% post_url 2015-09-06-canyoning-in-dalat %}" target="_blank">canyoning</a>, <a href="{% post_url 2015-09-22-best-of-vietnam %}" target="_blank">highlights</a>, <a href="{% post_url 2015-10-02-vietnam-part-ii %}" target="_blank">north</a>, <a href="{% post_url 2015-10-01-vietnam-part-i %}" target="_blank">south</a>
 
 <h3>[Cities I Went]</h3>
 <h4>Saigon</h4>
