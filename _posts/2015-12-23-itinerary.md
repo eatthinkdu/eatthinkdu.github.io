@@ -115,20 +115,20 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
 <b>Time spent:</b> 3 weeks<br>
 <b>Suggested time:</b> 4-6 weeks<br>
 <b>Transportation:</b> The sleep train from Bangkok to Chiang Mai and vice versa is actually pretty awesome. Buses also work (chiang mai to pai by bus or rent a motorcycle and ride 3 hours). Flying is fastest. To get to the islands, you need to hop on a ferry (would recommend getting a flight to ferry deal, or a bus to ferry deal). Be wary of tuk tuk scams in Bangkok. Otherwise, tuk tuks and red cabs are the way to go (red cabs are actually cheapest, fixed price of 20 baht per person). In Pai, the only way to get anywhere is by motorbike.<br>
-<b>Food:</b> Food here is the bomb dot com, by far the best. Curries, papaya salad, pad thai, noodles, coconut ice creams etc. Take a cooking course if you're interested in learning more!<br> 
+<b>Food:</b> Food here is the bomb dot com, by far the best. Curries, papaya salad, pad thai, noodles, coconut ice creams etc. and it's all pretty reasonably priced, ~$2-3 for a pad thai/curry. Take a cooking course if you're interested in learning more!<br> 
 <b>Blog Posts:</b> <a href="{% post_url 2015-10-04-elephant-jungle-sanctuary %}" target="_blank">elephants</a>, <a href="{% post_url 2015-10-11-thai-food %}" target="_blank">food</a>, <a href="{% post_url 2015-10-13-thailand %}" target="_blank">highlights</a>
 <h3>[Cities I Went]</h3>
 <h4>Chiang Mai</h4>
 <ul>
-  <li><b>Thoughts</b>: good base for exploring the north. lots of pre-planned activities/excursions. Can easily stay a week, but would probably only need 3-4 days to see/do everything.</li>
-  <li><b>What to Do</b>: (in order of awesomeness) elephant sanctuary visit, shopping at the sunday market, explore temples, jungle trek, cooking class</li>
-  <li><b>Where I Stayed</b>: Hug Hostel (would not recommend), Spicy Thai (expensive but awesome crew of backpackers), Deejai Backpackers (best deal by far)</li>
+  <li><b>Thoughts</b>: good base for exploring the north. lots of pre-planned activities/excursions. Can easily stay a week, but would probably only need 3-4 days to see/do everything. Expect everything in the north to be cheaper than in the south.</li>
+  <li><b>What to Do</b>: (in order of awesomeness) elephant sanctuary visit (~1500 baht for half day), shopping at the sunday market, explore temples (free), jungle trek, cooking class (~1000 baht)</li>
+  <li><b>Where I Stayed</b>: Hug Hostel (would not recommend), Spicy Thai (expensive but awesome crew of backpackers), Deejai Backpackers (best deal by far). Around $5-8 a night.</li>
 </ul>
 
 <h4>Pai</h4>
 <ul>
   <li><b>Thoughts</b>: chill, hippie town. only go if you can tolerate a bunch of high expats. not a place to experience culture. so pretty and relaxing though.</li>
-  <li><b>What to Do</b>: the only thing you can do in this town is rent a moped and ride out to waterfalls, a canyon, and other nature-y type things.</li>
+  <li><b>What to Do</b>: the only thing you can do in this town is rent a moped (120 baht/day) and ride out to waterfalls, a canyon, and other nature-y type things.</li>
   <li><b>Where I Stayed</b>: Spicy Pai. Only good place to stay. Communcal. Chill. Overlooks a rice paddy and is beautiful.</li>
 </ul>
 
@@ -136,7 +136,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
 <ul>
   <li><b>Thoughts</b>: best island for scuba diving. and scuba diving is so worth it. way less commercial than koh samui, and less party party than koh phangan. stay 4-5 days to get scuba certified.</li>
   <li><b>What to Do</b>: get scuba certified for dirt cheap and/or relax on the beach</li>
-  <li><b>Where I Stayed</b>: I took classes from Mojo Divers, housing was included.</li>
+  <li><b>Where I Stayed</b>: I took classes from Mojo Divers, housing was included (~$200-250 for SSI Open Water certification).</li>
 </ul>
 
 <h4>Bangkok</h4>
