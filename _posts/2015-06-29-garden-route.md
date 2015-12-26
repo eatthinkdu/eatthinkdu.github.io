@@ -6,7 +6,7 @@ date:       2015-06-29
 author:     "Erica"
 header-img: "img/elephant.jpg"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">I just had the most incredible weekend.</h3>

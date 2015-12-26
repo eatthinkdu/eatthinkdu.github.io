@@ -6,7 +6,7 @@ date:       2015-05-27
 author:     "Erica"
 header-img: "img/capetown.jpg"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">I am exhausted.</h3>

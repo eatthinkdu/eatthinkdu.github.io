@@ -6,7 +6,7 @@ date:       2015-09-06
 author:     "Erica"
 header-img: "img/du/canyon/cover.jpg"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">"Don't be lazy, get crazy!"</h3>

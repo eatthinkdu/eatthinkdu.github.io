@@ -6,7 +6,7 @@ date:       2015-06-11
 author:     "Erica"
 header-img: "img/friends.jpg"
 category: think
-tags: [think]
+tags: [think, travel]
 ---
 
 <h3 class="section-heading">The first month is always hard.</h3>

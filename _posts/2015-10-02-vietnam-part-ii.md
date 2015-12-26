@@ -6,7 +6,7 @@ date:       2015-10-02
 author:     "Erica"
 header-img: "img/think/vietnam/parttwo/cover.JPG"
 category: think
-tags: [think]
+tags: [think, travel]
 ---
 <h3 class="section-heading">I hate to play favorites, but the north of Vietnam was the best.</h3>
 

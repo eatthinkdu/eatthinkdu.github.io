@@ -6,7 +6,7 @@ date:       2015-10-01
 author:     "Erica"
 header-img: "img/think/vietnam/partone/cover.JPG"
 category: think
-tags: [think]
+tags: [think, travel]
 ---
 <h3 class="section-heading">3 weeks. 9 stops.</h3>
 I spent the first 10 days mostly in cities, ranging from the non-stop craziness and heat of Saigon, to the peaceful, cooler, alps-like Dalat. My time in south and central Vietnam is characterized mostly by delicious, cheap food, heaps of energy, and a good dose of culture and history.

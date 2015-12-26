@@ -6,7 +6,7 @@ date:       2015-05-18
 author:     "Erica"
 header-img: "img/travel3.jpg"
 category: think
-tags: [think]
+tags: [think, travel]
 ---
 
 <h3>All my life, I feel like I've made the <i>right</i> choices.</h3>

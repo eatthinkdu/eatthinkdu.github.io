@@ -6,7 +6,7 @@ date:       2015-12-23
 author:     "Erica"
 header-img: "img/think/practical/cover.JPG"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>

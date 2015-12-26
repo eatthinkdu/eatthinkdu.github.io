@@ -6,7 +6,7 @@ date:       2015-06-07
 author:     "Erica"
 header-img: "img/sandboarding-min.jpg"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">I am living an unreal reality, and I'm just waiting to wake up from a dream.</h3>

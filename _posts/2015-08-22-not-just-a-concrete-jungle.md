@@ -6,7 +6,7 @@ date:       2015-08-23
 author:     "Erica"
 header-img: "img/du/hk/cover.JPG"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">When I say Hong Kong, do you think of...</h3>

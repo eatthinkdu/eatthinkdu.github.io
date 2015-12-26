@@ -6,7 +6,7 @@ date:       2015-06-20
 author:     "Erica"
 header-img: "img/biscuit_mill.jpg"
 category: eat
-tags: [eat]
+tags: [eat, travel]
 ---
 
 <h3 class="section-heading">If you've ever tried to go out to eat with me, you know that I am the worst decider ever.</h3>

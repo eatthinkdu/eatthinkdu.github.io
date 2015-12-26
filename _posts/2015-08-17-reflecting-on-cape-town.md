@@ -6,7 +6,7 @@ date:       2015-08-16
 author:     "Erica"
 header-img: "img/think/reflection/rainbow.JPG"
 category: think
-tags: [think]
+tags: [think, travel]
 ---
 
 <h3>Bru, did I have the adventure of a lifetime.</h3>

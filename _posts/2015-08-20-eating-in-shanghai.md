@@ -6,7 +6,7 @@ date:       2015-08-20
 author:     "Erica"
 header-img: "img/eat/shanghai/skyline.JPG"
 category: eat
-tags: [eat]
+tags: [eat, travel]
 ---
 
 <h3 class="section-heading">The last time I was in Shanghai, I was 16.</h3>

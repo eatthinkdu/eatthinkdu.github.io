@@ -6,7 +6,7 @@ date:       2015-07-19
 author:     "Erica"
 header-img: "img/du/cape.jpg"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">Admitting our limits, and that we have limits, is an exercise in humility.</h3>

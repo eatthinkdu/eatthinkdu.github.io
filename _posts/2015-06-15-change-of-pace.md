@@ -6,7 +6,7 @@ date:       2015-06-15
 author:     "Erica"
 header-img: "img/stellenbosch.jpg"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">If Cape Town is living a million miles a minute, Stellenbosch is straight up ambling.</h3>

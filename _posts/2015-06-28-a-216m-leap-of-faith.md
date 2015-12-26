@@ -6,7 +6,7 @@ date:       2015-06-28
 author:     "Erica"
 header-img: "img/bungee.jpg"
 category: du
-tags: [du]
+tags: [du, travel]
 ---
 
 <h3 class="section-heading">What is your biggest fear?</h3>

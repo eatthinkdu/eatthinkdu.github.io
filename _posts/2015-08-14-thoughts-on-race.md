@@ -6,7 +6,7 @@ date:       2015-08-14
 author:     "Erica"
 header-img: "img/think/elephant/elephant.JPG"
 category: think
-tags: [think]
+tags: [think, travel]
 ---
 <h3 class="section-heading">In Cape Town, I sometimes feel like I've been time warped back to pre-civil rights period America.</h3>
 

@@ -6,7 +6,7 @@ date:       2015-08-23
 author:     "Erica"
 header-img: "img/eat/singapore/cover.JPG"
 category: eat
-tags: [eat]
+tags: [eat, travel]
 ---
 
 <h3 class="section-heading">The entirety of Singapore is obsessed with eating.</h3>
