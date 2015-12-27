@@ -31,7 +31,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
   <li><b>Where I stayed</b>: Mad Monkey Siem Reap. Again, party type hostel but with a pool. Did not like it here.</li>
 </ul>
 <h4>Sihanhoukville:</h4> 
-  <ul><li><b>Thoughts</b>: honestly this place sucked and you should avoid at all costs. I spent 1 night and that was 1 night wasted. There's nothing to do here except drink, and the drinking is not that fun.</li></ul>
+  <ul><li><b>Thoughts</b>: honestly this place sucked and you should avoid at all costs. Nothing to do or see, very, very touristy.</li></ul>
 <h4>Koh Rong:</h4>
 <ul>
   <li><b>Thoughts</b>: idyllic island, cool if you want to properly beach bum. less developed than Thai islands, it's backpacker's paradise. You can easily get stuck here and not want to leave.</li>
