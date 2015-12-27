@@ -9,7 +9,7 @@ category: du
 tags: [du, travel]
 ---
 
-Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
+Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a href="#time">Wishlist Spots</a>
 
 <h3 class="section-heading"><a name="top">Cambodia</a></h3>
 <b>Time spent:</b> 1 week<br>
@@ -147,3 +147,16 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
 </ul>
 
 <a href="#top">Back to Top</a>
+
+<h3 class="section-heading"><a name="time">If I had more time...</a></h3>
+<h3>[Other SE Asia Countries On My List]</h3>
+<ul>
+  <li><b>Laos</b>: Skip Vang Vieng and go straight to the north - Luang Prabang and the the nature up there is supposed to be gorgeous. Hope on a moped and just ride.
+  </li>
+  <li><b>Burma</b>: Hard for first time backpackers, and hard to get to/around. From what I've hard, travelling here is the most authentic you're going to get.
+  </li>
+  <li><b>Indonesia</b>: Bali, Gili Islands, mostly for scuba diving and surfing.</li>
+</ul>
+<a href="#top">Back to Top</a>
+
+<center><h3>Still have a question for me? Email me at eatthinkdu@gmail.com</h3></center>
