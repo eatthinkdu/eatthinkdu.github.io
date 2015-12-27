@@ -62,8 +62,8 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 
 <h4>Dalat</h4>
 <ul>
-  <li><b>Thoughts</b>: Best city in the south by far. Must go if you're into nature and waterfalls, also climate is slightly cooler and temperature is actually bearable. Locals are super friendly. There's an amazing bakery, ask about it. Stay 2 days.</li>
-  <li><b>What to Do</b>: Canyoning. Will run you around $35 for half day w/ lunch and transportation included, so worth it. Good spot to rent a moped/scooter and ride around in the mountains/countryside.</li>
+  <li><b>Thoughts</b>: Best city in the south by far. Must go if you're into nature and waterfalls, also climate is slightly cooler and temperature is actually bearable. Locals are super friendly. There's an amazing bakery, ask about it. Stay 2 days at minimum.</li>
+  <li><b>What to Do</b>: Canyoning. Will run you around $35 for half day w/ lunch and transportation included, so worth it. Good spot to rent a moped/scooter and ride around in the mountains/countryside. Talk to the locals!!</li>
   <li><b>Where I Stayed</b>: Cozy Nook Hostel, a homestay hostel run by an adorable family. Can by beers for about 10.000 dong (ie $0.50), they also run a homemade dinner each night for about $3, great time to meet people at the hostel over delicious food.</li>
 </ul>
 
@@ -71,7 +71,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 <ul>
   <li><b>Thoughts</b>: Just a super charming, old city. Lots of backpackers if you're looking to party, but also a ton of old cultural gems if you just want to explore. Also a beach.</li>
   <li><b>What to Do</b>: Recommend getting a pedal bike and biking around, from the ancient city (so pretty) to the beach (not as great) and just wandering. If you want custom made clothes, this is the place to do it for cheap (allow 3 days), but do your research beforehand or you'll get shit.</li>
-  <li><b>Where I Stayed</b>: Sunflower Hotel is the really the only place in the city with a good location (includes pool!), but there are some good places on the beach if you prefer that (Under the Coconut Tree). About $6, ok crowd.</li>
+  <li><b>Where I Stayed</b>: Sunflower Hotel is the really the only place in the city with a good location (includes pool!), but there are some good places on the beach if you prefer that (Under the Coconut Tree). About $6.</li>
 </ul>
 
 <h4>Hue</h4>
