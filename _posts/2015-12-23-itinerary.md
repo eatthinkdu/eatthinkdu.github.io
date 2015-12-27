@@ -35,7 +35,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 <h4>Koh Rong:</h4>
 <ul>
   <li><b>Thoughts</b>: idyllic island, cool if you want to properly beach bum. less developed than Thai islands, it's backpacker's paradise. You can easily get stuck here and not want to leave.</li>
-  <li><b>What to do</b>: I chilled on the main beach for 2 days and it was glorious. This island also knows how to party, and the Cambodians will come out and join you. It's awesome.</li>
+  <li><b>What to do</b>: I chilled on the main beach for 2 days and it was glorious. This island also knows how to party, and the Cambodians will come out and join you. It's awesome. They also have this bioluminescent phytoplankton tour at sunset for ~$7 that sounded good, but I didn't have the time to check it out.</li>
   <li><b>Where I stayed</b>: Three Brothers? I honestly don't remember but I got a private room for like $3 or something ridiculous. Monkey Island has nice bungalows though.</li>
 </ul>
 
