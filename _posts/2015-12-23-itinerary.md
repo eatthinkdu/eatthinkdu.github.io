@@ -127,15 +127,15 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>
 
 <h4>Pai</h4>
 <ul>
-  <li><b>Thoughts</b>: chill, hippie town. only go if you can tolerate a bunch of high expats. not a place to experience culture. so pretty and relaxing though.</li>
+  <li><b>Thoughts</b>: chill, hippie town. only go if you can tolerate a bunch of high expats. not a place to experience Thai culture. so pretty and relaxing though.</li>
   <li><b>What to Do</b>: the only thing you can do in this town is rent a moped (120 baht/day) and ride out to waterfalls, a canyon, and other nature-y type things.</li>
   <li><b>Where I Stayed</b>: Spicy Pai. Only good place to stay. Communcal. Chill. Overlooks a rice paddy and is beautiful.</li>
 </ul>
 
 <h4>Koh Tao</h4>
 <ul>
-  <li><b>Thoughts</b>: best island for scuba diving. and scuba diving is so worth it. way less commercial than koh samui, and less party party than koh phangan. stay 4-5 days to get scuba certified.</li>
-  <li><b>What to Do</b>: get scuba certified for dirt cheap and/or relax on the beach</li>
+  <li><b>Thoughts</b>: the islands are way more commercial and touristy than the rest of thailand. koh tao is the best island for scuba diving. and scuba diving is so worth it. way less commercial than koh samui, and less party party than koh phangan. stay 4-5 days to get scuba certified.</li>
+  <li><b>What to Do</b>: get scuba certified for dirt cheap and/or relax on the beach. shop around the scuba shops for the program that works best for you! all the shops are super nice and willing to give you their low down.</li>
   <li><b>Where I Stayed</b>: I took classes from Mojo Divers, housing was included (~$200-250 for SSI Open Water certification).</li>
 </ul>
 
