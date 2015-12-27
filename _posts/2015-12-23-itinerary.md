@@ -69,14 +69,14 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 
 <h4>Hoi An</h4>
 <ul>
-  <li><b>Thoughts</b>: Just a super charming, old city. Lots of backpackers if you're looking to party, but also a ton of old cultural gems if you just want to explore. Also a beach.</li>
+  <li><b>Thoughts</b>: Just a super charming, old city. Lots of backpackers, but also a ton of old cultural gems if you just want to explore. Also a beach.</li>
   <li><b>What to Do</b>: Recommend getting a pedal bike and biking around, from the ancient city (so pretty) to the beach (not as great) and just wandering. If you want custom made clothes, this is the place to do it for cheap (allow 3 days), but do your research beforehand or you'll get shit.</li>
   <li><b>Where I Stayed</b>: Sunflower Hotel is the really the only place in the city with a good location (includes pool!), but there are some good places on the beach if you prefer that (Under the Coconut Tree). About $6.</li>
 </ul>
 
 <h4>Hue</h4>
 <ul>
-  <li><b>Thoughts</b>: if you're short on time, skip. It's meh. Worth spending 1 day just to chill and explore the market.</li>
+  <li><b>Thoughts</b>: if you're short on time, skip. Worth spending 1 day just to chill and explore the market.</li>
   <li><b>What to Do</b>: You could see the citadel but I thought it was overpriced so I didn't go. Must go to the market, pretend you're a local, and eat everything. DMZ tour was also not worth it, but Vinh Moc tunnels are interesting if you're into war stuff.</li>
   <li><b>Where I Stayed</b>: Hue Happy Homestay. Best part of Hue was this family, the most adorable family and the father is so nice.</li>
 </ul>
