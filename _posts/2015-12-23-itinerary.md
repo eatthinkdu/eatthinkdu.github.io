@@ -159,4 +159,4 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 </ul>
 <a href="#top">Back to Top</a>
 
-<center><h3>Still have a question for me? Email me at eatthinkdu@gmail.com</h3></center>
+<center><h3>Still have a question? Email me at eatthinkdu@gmail.com</h3></center>
