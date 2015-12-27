@@ -151,7 +151,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 <h3 class="section-heading"><a name="time">If I had more time...</a></h3>
 <h3>[Other SE Asia Countries On My List]</h3>
 <ul>
-  <li><b>Laos</b>: Skip Vang Vieng and go straight to the north - Luang Prabang and the the nature up there is supposed to be gorgeous. Hope on a moped and just ride.
+  <li><b>Laos</b>: Skip Vang Vieng (mostly tubing and drunken debauchery) and go straight to the north - Luang Prabang and the nature up there is supposed to be gorgeous. Hope on a moped and just ride.
   </li>
   <li><b>Burma</b>: Hard for first time backpackers, and hard to get to/around. From what I've hard, travelling here is the most authentic you're going to get.
   </li>
