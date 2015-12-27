@@ -20,8 +20,8 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 <h3>[Cities I Went]</h3>
 <h4>Phnom Penh:</h4>
 <ul>
-  <li><b>Thoughts</b>: must go. If you're short on time, spend a half day to a day here (I spent half a day and that was enough). </li>
-  <li><b>What to do</b>: I saw the Killing Fields (sad, worth it, do some pre-reading before visiting, I read <i>First They Killed My Father</i> and thought taht was useful), and S21, the Genocide Museum (less impactful, but also worth it. Bring a student ID to get in for free.)</li>
+  <li><b>Thoughts</b>: must go. If you're short on time, spend a half day to a day here. </li>
+  <li><b>What to do</b>: I saw the Killing Fields (sad, worth it, do some pre-reading before visiting, I read <i>First They Killed My Father</i> and thought that was useful), and S21, the Genocide Museum (less impactful, but also worth it. Bring a student ID to get in for free.)</li>
   <li><b>Where I Stayed</b>: Mad Monkey Phnom Penh. Fun party type hostel. More beer pong than I've ever played in my life. Avoid if you want a good night's sleep and are not ok with meeting gap yah brits.</li>
 </ul>
 <h4>Siem Reap:</h4>
