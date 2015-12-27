@@ -27,7 +27,7 @@ Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a hr
 <h4>Siem Reap:</h4>
 <ul>
   <li><b>Thoughts</b>: best city I visited in Cambodia solely due to angkor wat. I spent 3 days there and that was enough. You could probably do 2.</li>
-  <li><b>What to do</b>: Angkor Wat (plus all the other temples, including the smaller ones) - get a 3 day pass if you're into old shit, get a 1 day pass if you're going to say you went to Angkor Wat or if you're short on time. Get a tour guide so you know what's going on, and go at sunrise. Getting a 3 day pass is nice because you're going to be exhausted at like 11 am and then you can go back on subsequent days to see the smaller temples (which are way cool!). ATV sunset tour through the rice paddies is also worth it.</li>
+  <li><b>What to do</b>: Angkor Wat (plus all the other temples, including the smaller ones) - get a 3 day pass if you're into old stuff like temples (I am, and it was worth it), get a 1 day pass if you only really want to see Angkor Wat or if you're short on time. Get a tour guide so you know what's going on, and go at sunrise. Getting a 3 day pass is nice because you're going to be exhausted at like 11 am and then you can go back on subsequent days to see the smaller temples (which are way cool!). ATV sunset tour through the rice paddies is also worth it.</li>
   <li><b>Where I stayed</b>: Mad Monkey Siem Reap. Again, party type hostel but with a pool. Did not like it here.</li>
 </ul>
 <h4>Sihanhoukville:</h4> 
