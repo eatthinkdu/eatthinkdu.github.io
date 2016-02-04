@@ -43,7 +43,7 @@ On one hand I'm kinda disappointed in myself. On the other hand, I think I was c
 
 <b>The stories behind the letters:</b>
 <ol type="A">
-<li>Day 1 and I'm pumped. Filled with resolve and determination, I head to the kitchen of my office and stir up some Emergen-C (it' January after all, and getting sick would be a major bummer). Only after downing the entire glass do I realize I've made a huge mistake and Emergen-C is pure sugar. Off to a rocky start.<br>
+<li>Day 1 and I'm pumped. Filled with resolve and determination, I head to the kitchen of my office and stir up some Emergen-C (it's January after all, and getting sick would be a major bummer). Only after downing the entire glass do I realize I've made a huge mistake and Emergen-C is pure sugar. Off to a rocky start.<br>
 <center><img src="http://www.reactiongifs.us/wp-content/uploads/2013/12/gob_huge_mistake_arrested_development.gif" /></center><br><br></li>
 <li>Weekdays are easy, with the occasional struggle of eating out at restaurants. I take the ignorance is bliss route and try to pick out dishes I think will contain the least amount of sugar. Usually this means salads without the dressing or copious amounts of cheese. Cheese intake this month skyrockets.<br>
 <center><img src="http://45.media.tumblr.com/96e771e571d2a52356ecaae2194233ba/tumblr_nf3o1wpeCW1twe13wo1_250.gif" /></center><br><br></li>
