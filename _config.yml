@@ -2,13 +2,13 @@
 title: Eat. Think. Du.
 header-img: img/pic5.jpg
 email: erica.c.du@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "food + ideas + adventure"
 baseurl: ""
 url: "http://eatthinkdu.com"
 # url: "http://localhost:4000"
-twitter_username: urcadu
-github_username:  ericadu
-facebook_username:  erica.c.du
+twitter_username:  
+github_username:  
+facebook_username:  
 
 # Build settings
 markdown: kramdown

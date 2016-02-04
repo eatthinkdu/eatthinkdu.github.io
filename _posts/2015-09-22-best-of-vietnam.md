@@ -6,7 +6,7 @@ date:       2015-09-22
 author:     "Erica"
 header-img: "img/think/vietnam/highlights/cover.JPG"
 category: think
-tags: [think, travel]
+tags: [think, travel, backpacking]
 ---
 
 <h3 class="section-heading">Dudes. I fell in love with this country.</h3>

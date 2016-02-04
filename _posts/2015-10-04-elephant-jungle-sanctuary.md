@@ -6,7 +6,7 @@ date:       2015-10-04
 author:     "Erica"
 header-img: "img/du/thailand/elephants/cover.JPG"
 category: du
-tags: [du, travel]
+tags: [du, travel, backpacking]
 ---
 
 <h3 class="section-heading">To me, elephants always seemed invincible.</h3>

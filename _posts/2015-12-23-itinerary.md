@@ -6,7 +6,7 @@ date:       2015-12-23
 author:     "Erica"
 header-img: "img/think/practical/cover.JPG"
 category: du
-tags: [du, travel]
+tags: [du, travel, backpacking]
 ---
 
 Jump to: <a href="#vietnam">Vietnam</a>, <a href="#thailand">Thailand</a>, <a href="#time">Wishlist Spots</a>
