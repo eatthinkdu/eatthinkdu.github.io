@@ -66,19 +66,21 @@ Final stretch, and I'm killin it. Turned down desserts not only once, but three 
 <h3>Conclusions: what I learned</h3>
 <ol>
   <li><b>Set yourself up for success:</b> sometimes goals are doomed to fail from the start. Providing such a strict definitely of "added sugar," making my allowance zero, and allowing alcohol consumption just turned into a mousetrap, only a matter of <i>when</i> not <i>if</i> I was going to fail. Next time I should structure my goals and environment to be conducive to success.</li>
+  <br>
   <li><b>Learn from missteps, but move on, don't dwell:</b> week 3 sugar performance was pretty embarassing. In fact, I probably ate more sugar that week than I did without this no added sugar challenge. Though demotivating, I knew that I still had a week left to prove myself, and couldn't take on the attitude of "might as well just give up." I just got on with life. </li>
+  <br>
   <li><b>Reducing added sugar intake was easy, eliminating it was impossible:</b> turns out I was already eating a pretty low-sugar diet so getting rid of desserts and processed food was really easy for me. Unfortunately, added sugar is hidden in almost everything that doesn't grow out of the ground. Living in America, I would say cutting out added sugar entirely is actually impossible.</li> 
 </ol>
-
 <h3>Conclusions: what's changed</h3>
 <ol>
   <li>Triscuit and gouda cheese intake has skyrocketed to a box and a wheel (respectively) a week.</li>
   <li>Granola and granola bar consumption has plummeted to zero.</li>
-  <li>Lots of unsweetened almond milk.</li>
+  <li>Lots of unsweetened almond milk. Have switched to the plain versions of a lot of foods (popchips, yogurts, etc), and don't really plan on switching back.</li>
+  <li>Way more conscious of ingredients in foods, especially when eating out.</li>
   <li>Less of a need for caffeine. Not sure why this is the case, but haven't really needed to drink coffee in the past week.</li>
   <li>No desire to eat sweets. Except for chocolate. I always want chocolate.</li>
 </ol>
 
-So, I guess I wasn't too successful in the challenge - I ended up struggling quite a bit. However, every cloud has a silver lining - I did see a noticeable change in my life, and have continued to eat lower amounts of sugar.
+So, I guess I wasn't too successful in the challenge - I ended up struggling quite a bit. However, every cloud has a silver lining - I did see a noticeable change in my life, and have continued to eat lower amounts of sugar. Woo!
 
 <h3> Stay tuned for next month! ...I'm trying sober February.</h3>
