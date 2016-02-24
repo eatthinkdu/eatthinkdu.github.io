@@ -36,8 +36,10 @@ You guys are probably noticing that there are obvious beverages that definitely 
 
 I would love to report back that I was successful and that I ate no added sugar and life was awesome but unfortunately, my added sugar intake this month looked a little like this:
 
-<center><img src="{{site.url}}/img/monthly/sugargraph.bmp" height="300px" width="600px" style="padding:20px;display:inline-block"/>
-<p style="margin-top:-10px;padding-bottom:20px;width:600px"><i>x-axis represents time, y-axis represents sugar intake, aka a pitiful look at my lack of success. notable incidents marked.</i></p></center>
+<center>
+  <img src="{{site.url}}/img/monthly/sugargraph.bmp" height="300px" width="600px" style="padding:20px;display:inline-block"/>
+  <p style="margin-top:-10px;padding-bottom:20px"><i>x-axis represents time, y-axis represents sugar intake, aka a pitiful look at my lack of success. notable incidents marked.</i></p>
+</center>
 
 On one hand I'm kinda disappointed in myself. On the other hand, I think I was chasing after an unachievable goal.
 

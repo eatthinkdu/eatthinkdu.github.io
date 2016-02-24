@@ -4,8 +4,8 @@ header-img: img/pic5.jpg
 email: erica.c.du@gmail.com
 description: "food + ideas + adventure"
 baseurl: ""
-url: "http://eatthinkdu.com"
-# url: "http://localhost:4000"
+# url: "http://eatthinkdu.com"
+url: "http://localhost:4000"
 twitter_username:  
 github_username:  
 facebook_username:  

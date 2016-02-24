@@ -15,7 +15,7 @@ With its vibrant energy, the organized chaos, the frenzied craziness of the loca
 
 <center>
   <img src="{{site.url}}/img/think/vietnam/highlights/streets.JPG" height="300px" width="600px" style="padding:20px;display:inline-block"/>
-  <p style="margin-top:-10px;padding-bottom:20px"><i>Saigon at sunset.</i></p>
+  <p style="margin-top:-10px;padding-bottom:20px;"><i>Saigon at sunset.</i></p>
 </center>
 
 With the constantly changing yet consistently beautiful terrain, the diversity and richness of things to do and places to explore. Beaches, mountains, rice paddies, caves, jungles, waterfalls.
