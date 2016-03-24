@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Avoiding the Unavoidable"
-subtitle:   "Attempting the No Added Sugar Challenge"
+subtitle:   "January: No Added Sugar"
 date:       2016-02-03
 author:     "Erica"
 header-img: "img/monthly/sugar.JPG"
